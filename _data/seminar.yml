@@ -1,0 +1,40 @@
+- title: Example1 $G=(V,E)$
+  date: 2022-09-27
+  abstract: Example
+  speakers: Example
+  meeting:
+    room: Zoom:123-456-789
+    password: PW:123456
+  highlight: 1
+
+- title: Example2
+  date: 2022-09-27
+  abstract: Example $G=(V,E)$
+  speakers: Example
+  meeting:
+    room: Zoom:123-456-789
+    password: PW:123456
+  highlight: 1
+  news1:   <a style="color:#FF0000" href="https://www.Example.com">Example</a>
+  news2: See [Example](https://www.Example.com), [Example](https://www.Example.com).
+
+- title: Example3
+  date: 2022-09-27
+  abstract: Example3.
+  speakers: Example
+  meeting:
+    room: Zoom:123-456-789
+    password: PW:123456
+  highlight: 0
+  news2:
+
+- title: Example4
+  date: 2022-09-27
+  abstract: Example4.
+  speakers: Example
+  meeting:
+    room: Zoom:123-456-789
+    password: PW:123456
+  highlight: 0
+  news2: See also [Example](https://Example.org/)
+

@@ -1,0 +1,20 @@
+- name: <a href="https://ustc.edu.cn/">Example1</a>
+  photo: USTC.jpg
+  info: Example
+  email: Example@Example.com
+  number_educ: 5
+  education1: Example
+  education2: Example
+  education3: Example
+  education4: Example
+  education5: Example
+
+- name: <a href="https://ustc.edu.cn/">Example2</a>
+  photo: USTC.jpg
+  info: Example
+  email: Example@Example.com
+  number_educ: 3
+  education1: Example
+  education2: Example
+  education3: Example
+

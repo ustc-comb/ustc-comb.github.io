@@ -1,0 +1,16 @@
+
+<div>
+
+{% for publi in site.data.seminar offset: 2 %}
+
+  {{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+{{ publi.abstract }}
+</details>
+  <em>Speaker: {{ publi.speakers }} </em><br />{{ publi.meeting.room }}<br />{{ publi.meeting.password }}<br />
+
+
+{% endfor %}
+
+</div>
