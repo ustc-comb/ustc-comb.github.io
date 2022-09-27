@@ -1,4 +1,5 @@
 - title: Example1 $G=(V,E)$
+  year: 2022
   date: 2022-09-27
   abstract: Example
   speakers: Example
@@ -8,6 +9,7 @@
   highlight: 1
 
 - title: Example2
+  year: 2022
   date: 2022-09-27
   abstract: Example $G=(V,E)$
   speakers: Example
@@ -19,6 +21,7 @@
   news2: See [Example](https://www.Example.com), [Example](https://www.Example.com).
 
 - title: Example3
+  year: 2022
   date: 2022-09-27
   abstract: Example3.
   speakers: Example
@@ -29,6 +32,7 @@
   news2:
 
 - title: Example4
+  year: 2022
   date: 2022-09-27
   abstract: Example4.
   speakers: Example

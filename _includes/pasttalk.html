@@ -1,15 +1,42 @@
 
 <div>
 
-{% for publi in site.data.seminar offset: 2 %}
 
-  {{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
+{% assign postsByYear =
+    site.data.seminar | group_by_exp:"seminar","seminar.year | year: '%Y'" %}
+{% assign nyear = 2022 %}
+
+{% for year in postsByYear %}
+  {{ year.name }}
+<ul>
+
+    {% if year.name  == nyear %}
+       {% for publi in year.items offset: 2 %}
+<li>
+{{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
   <details>
 <summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
 {{ publi.abstract }}
 </details>
   <em>Speaker: {{ publi.speakers }} </em><br />{{ publi.meeting.room }}<br />{{ publi.meeting.password }}<br />
-
+</li>
+      {% endfor %}
+       {% endif %}
+       
+       {% if year.name != nyear %}
+       {% for publi in year.items %}
+<li>
+{{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+{{ publi.abstract }}
+</details>
+  <em>Speaker: {{ publi.speakers }} </em><br />{{ publi.meeting.room }}<br />{{ publi.meeting.password }}<br />
+</li>
+      {% endfor %}
+       {% endif %}
+   
+</ul>
 
 {% endfor %}
 
