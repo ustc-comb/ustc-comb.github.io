@@ -1,6 +1,9 @@
 
 <div>
-
+<ul>
+<font size="4">Sorted by years:</font>
+<a href="#2022">2022</a>
+<ul>
 
 {% assign postsByYear =
     site.data.seminar | group_by_exp:"seminar","seminar.year | year: '%Y'" %}
@@ -8,12 +11,12 @@
 
 {% for year in postsByYear %}
   <font size="5"><strong>{{ year.name }}</strong></font>
-<ul>
+<ul id="{{ year.name }}">
 
     {% if year.name  == nyear %}
        {% for publi in year.items offset: 2 %}
 <li>
-{{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
+<strong>{{ publi.title }}</strong> <br /><em>Date: </em>{{ publi.date }}<br />
   <details>
 <summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
 {{ publi.abstract }}
