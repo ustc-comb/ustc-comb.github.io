@@ -1,0 +1,41 @@
+I"<h1 id="visitors">Visitors</h1>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>Master student  <br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>Example  <br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+:ET

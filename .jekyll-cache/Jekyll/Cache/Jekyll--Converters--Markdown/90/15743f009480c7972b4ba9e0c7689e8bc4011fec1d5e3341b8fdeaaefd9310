@@ -1,0 +1,39 @@
+I")<h1 id="combinatorics-seminar">Combinatorics Seminar</h1>
+
+<h2 id="latest">Latest</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Example1 $G=(V,E)$</pubtit>
+      <p><em>Date: </em>2022-09-27</p>
+      <p><em>Abstract: </em>Example</p>
+      <p><em>Speaker: Example</em></p>
+      <p><strong>Zoom:123-456-789<br />PW:123456</strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Example2</pubtit>
+      <p><em>Date: </em>2022-09-27</p>
+      <p><em>Abstract: </em>Example $G=(V,E)$</p>
+      <p><em>Speaker: Example</em></p>
+      <p><strong>Zoom:123-456-789<br />PW:123456</strong></p>
+      <p class="text-danger"><strong> <a style="color:#FF0000" href="https://www.Example.com">Example</a></strong></p>
+      <p> See <a href="https://www.Example.com">Example</a>, <a href="https://www.Example.com">Example</a>.</p>
+
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="past-talks">Past talks</h2>
+
+:ET

@@ -1,15 +1,12 @@
 ---
-title: "USTC Combinatorics Group - Team"
+title: "USTC Combinatorics Group - Members"
 layout: gridlay
 excerpt: "USTC Combinatorics Group: Team members"
 sitemap: false
-permalink: /team/
+permalink: /members/
 ---
 
 # Group Members
-
-
-Jump to [staff](#staff), [Postdoctor](#postdoctor), [Ph.D Students](#phd-students), [Master and Bachelor Students](#master-and-bachelor-students), [Former visitors, students](#former-visitors-students).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -221,29 +218,4 @@ Jump to [staff](#staff), [Postdoctor](#postdoctor), [Ph.D Students](#phd-student
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-## Former visitors, students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>postdoctor</h4>
-{% for member in site.data.alumni_postdoctor %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Ph.D Students</h4>
-{% for member in site.data.alumni_phd %}
-{{ member.name }}
-{% endfor %}
-</div>
-</div>
 

@@ -1,0 +1,15 @@
+I"^<h1 id="pictures">Pictures</h1>
+
+<h4 id="gallery">Gallery</h4>
+<p>(Right-click <em>‘view image’</em> to see a larger image.)</p>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/picpic/Gallery/USTC.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<p>   </p>
+:ET

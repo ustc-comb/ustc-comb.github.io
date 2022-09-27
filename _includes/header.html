@@ -13,7 +13,16 @@
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">People</a></li>
+		<li>
+		<div class="dropdown">
+    <a href="#" class="dropbtn">People</a>
+    <div class="dropdown-content">
+      <a href="{{ site.url }}{{ site.baseurl }}/members">Members</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/visitors">Visitors</a>
+      <a href="{{ site.url }}{{ site.baseurl }}/former">Former Members</a>
+    </div>
+  </div>
+  </li>
 		<li>
 		<div class="dropdown">
     <a href="#" class="dropbtn">Events</a>
