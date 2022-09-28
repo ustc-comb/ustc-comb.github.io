@@ -1,0 +1,109 @@
+I")<h1 id="group-members">Group Members</h1>
+
+<h2 id="staff">Staff</h2>
+
+<h2 id="postdoctor">Postdoctor</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/USTC.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Example</h4>
+    <p><i>Example<br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/USTC.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Example</h4>
+    <p><i>Example<br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="phd-students">Ph.D Students</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>Master student  <br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>Example  <br />Email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <ul style="overflow: hidden">
+
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="master-and-bachelor-students">Master and Bachelor Students</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>Master student <!-- <br>email: <Example@Example.com></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>Example</h4>
+    <p><i>BSc student <!-- <br>email: <Example@Example.com></i> --></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+:ET
