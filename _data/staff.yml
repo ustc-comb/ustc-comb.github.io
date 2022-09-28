@@ -1,12 +1,22 @@
 - name: <a href="http://staff.ustc.edu.cn/~jiema/">Jie Ma</a>
   photo: jiema2021.jpg
-  info: Group leader. Professor.<br>Research Interests:&nbsp;Extremal Combinatorics, <br>Graph Theory, <br>Probabilistic Methods in Combinatorics, and their applications to theoretical Computer Science and Optimization.
+  info: Professor.
+  Office: Management Building, 1603
   email: jiema@ustc.edu.cn
-  number_educ: 2
-  #education1: Professor, School of Mathematical Sciences, University of Science and Technology of China
-  #education1: Postdoctoral Associate, Department of Mathematical Sciences, Carnegie Mellon University
-  #education2: Hedrick Assistant Professor, Department of Mathematics, UCLA
-  education1: Ph.D. in Mathematics, Thesis Advisor:Prof. Xingxing Yu, School of Mathematics, Georgia Institute of Technology
-  education2: B.Sc. in Mathematics, Department of Mathematics, University of Science and Technology of China 
+  number_educ: 3
+  education1: Extremal Combinatorics
+  education2: Graph Theory
+  education3: Probabilistic Methods in Combinatorics, and their applications to theoretical Computer Science and Optimization
+  #education4: Ph.D. in Mathematics, Thesis Advisor:Prof. Xingxing Yu, School of Mathematics, Georgia Institute of Technology
+  #education5: B.Sc. in Mathematics, Department of Mathematics, University of Science and Technology of China 
 
-
+- name: <a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a>
+  photo: tuantran.png
+  info: Specially Appointed Professor.
+  Office: Management Building, 1600
+  email: trantuan@ustc.edu.cn
+  number_educ: 4
+  education1: Extremal and Probabilistic Combinatorics
+  education2: Ramsey Theory
+  education3: Additive Combinatorics
+  education4: Discrete Geometry
