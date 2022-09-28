@@ -43,7 +43,7 @@ We are a research group at the School of Mathematical Sciences, University of Sc
 
 Our research interests focus on extremal combinatorics, graph theory, probabilistic methods in combinatorics, and their applications to theoretical computer science, information theory and optimization. 
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team (more info) !**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/hiring)) !**
 
 <div align=center>
 &nbsp;<br>
