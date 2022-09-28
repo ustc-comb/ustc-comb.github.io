@@ -1,9 +1,9 @@
 
 <div>
-<ul>
+<!--<ul>
 <font size="4">Sorted by years:</font>
 <a href="#2022">2022</a>
-<ul>
+</ul>-->
 
 {% assign postsByYear =
     site.data.seminar | group_by_exp:"seminar","seminar.year | year: '%Y'" %}
@@ -13,31 +13,19 @@
   <font size="5"><strong>{{ year.name }}</strong></font>
 <ul id="{{ year.name }}">
 
-    {% if year.name  == nyear %}
-       {% for publi in year.items offset: 2 %}
+       {% for publi in year.items %}
+       {% if publi.highlight  == 0 %}
 <li>
 <strong>{{ publi.title }}</strong> <br /><em>Date: </em>{{ publi.date }}<br />
   <details>
 <summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
 {{ publi.abstract }}
 </details>
-  <em>Speaker: {{ publi.speakers }} </em><br />{{ publi.meeting.room }}<br />{{ publi.meeting.password }}<br />
+  <em>Speaker: {{ publi.speakers }} </em><br />
 </li>
+      {% endif %}
       {% endfor %}
-       {% endif %}
        
-       {% if year.name != nyear %}
-       {% for publi in year.items %}
-<li>
-{{ publi.title }} <br /><em>Date: </em>{{ publi.date }}<br />
-  <details>
-<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
-{{ publi.abstract }}
-</details>
-  <em>Speaker: {{ publi.speakers }} </em><br />{{ publi.meeting.room }}<br />{{ publi.meeting.password }}<br />
-</li>
-      {% endfor %}
-       {% endif %}
    
 </ul>
 

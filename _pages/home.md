@@ -19,10 +19,14 @@ Introduction here.Introduction here.Introduction here.Introduction here.Introduc
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpeg" alt="Slide 1" />
+          <a href="#">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpg" alt="Slide 1" />
+          </a>
         </div>
         <div class="item">
+          <a href="#">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 2" />
+          </a>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

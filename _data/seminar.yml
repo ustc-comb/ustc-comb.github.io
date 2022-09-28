@@ -1,6 +1,6 @@
 - title: Example1 $G=(V,E)$
   year: 2022
-  date: 2022-09-27
+  date: 2022-09-27 13:32AM(UTC)
   abstract: Example
   speakers: Example
   meeting:
@@ -10,7 +10,7 @@
 
 - title: Example2
   year: 2022
-  date: 2022-09-27
+  date: 2022-09-27 13:32AM(UTC)
   abstract: Example $G=(V,E)$
   speakers: Example
   meeting:
@@ -20,9 +20,9 @@
   news1:   <a style="color:#FF0000" href="https://www.Example.com">Example</a>
   news2: See [Example](https://www.Example.com), [Example](https://www.Example.com).
 
-- title: Example3
+- title: Example3 <a href="https://www.Example.com">video</a> <a href="https://www.Example.com">slides</a>
   year: 2022
-  date: 2022-09-27
+  date: 2022-09-27 13:32AM(UTC)
   abstract: Example3.
   speakers: Example
   meeting:
@@ -33,7 +33,7 @@
 
 - title: Example4
   year: 2022
-  date: 2022-09-27
+  date: 2022-09-27 13:32AM(UTC)
   abstract: Example4.
   speakers: Example
   meeting:
@@ -41,4 +41,5 @@
     password: PW:123456
   highlight: 0
   news2: See also [Example](https://Example.org/)
+
 
