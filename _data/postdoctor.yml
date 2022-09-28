@@ -1,9 +1,6 @@
-- name: Example
-  photo: USTC.jpg
-  info: Example
-  email: Example@Example.com
+#- name: Example
+#  photo: USTC.jpg
+#  info: Example
+#  email: Example@Example.com
 
-- name: Example
-  photo: USTC.jpg
-  info: Example
-  email: Example@Example.com
+

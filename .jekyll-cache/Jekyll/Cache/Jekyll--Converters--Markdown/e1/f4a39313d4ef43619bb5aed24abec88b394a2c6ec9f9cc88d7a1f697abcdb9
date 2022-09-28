@@ -1,14 +1,13 @@
-I"�
-<h1 id="group-members">Group Members</h1>
+I"�<h1 id="group-members">Group Members</h1>
 
 <h2 id="staff">Staff</h2>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/USTC.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4><a href="https://ustc.edu.cn/">Example1</a></h4>
-    <p><i>Example <br />email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
+    <p><img src="http://localhost:4000/images/teampic/jiema2021.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="http://staff.ustc.edu.cn/~jiema/">Ma (马), Jie (杰)</a></h4>
+    <p><i>I am a professor at the School of Mathematical Sciences, University of Science and Technology of China (USTC).<br />I am an associate editor at SIAM Journal on Discrete Mathematics since 2018. I received The National Science Fund for Excellent Young Scholars (国家自然科学基金委优秀青年基金) in 2016 and The National Science Fund for Distinguished Young Scholars (国家自然科学基金委杰出青年基金) in 2021. <br />email: <a href="mailto:Example@Example.com">Example@Example.com</a></i></p>
     <ul style="overflow: hidden">
 
   

@@ -1,45 +1,11 @@
-- title: Example1 $G=(V,E)$
+- title: Perfect Matchings in hypergraphs
   year: 2022
-  date: 2022-09-27 13:32AM(UTC)
-  abstract: Example
-  speakers: Example
+  date: Thursday (Sep 29, 2022), 3-4 pm
+  abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
+  speakers: Jie Han, Beijing Institute of Technology
   meeting:
-    room: Zoom:123-456-789
-    password: PW:123456
+    room: <strong>Tencent Meeting ID:&nbsp;</strong>886562915
+    password: <strong>Passcord:&nbsp;</strong>0929
   highlight: 1
-
-- title: Example2
-  year: 2022
-  date: 2022-09-27 13:32AM(UTC)
-  abstract: Example $G=(V,E)$
-  speakers: Example
-  meeting:
-    room: Zoom:123-456-789
-    password: PW:123456
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.Example.com">Example</a>
-  news2: See [Example](https://www.Example.com), [Example](https://www.Example.com).
-
-- title: Example3 <a href="https://www.Example.com">video</a> <a href="https://www.Example.com">slides</a>
-  year: 2022
-  date: 2022-09-27 13:32AM(UTC)
-  abstract: Example3.
-  speakers: Example
-  meeting:
-    room: Zoom:123-456-789
-    password: PW:123456
-  highlight: 0
-  news2:
-
-- title: Example4
-  year: 2022
-  date: 2022-09-27 13:32AM(UTC)
-  abstract: Example4.
-  speakers: Example
-  meeting:
-    room: Zoom:123-456-789
-    password: PW:123456
-  highlight: 0
-  news2: See also [Example](https://Example.org/)
 
 

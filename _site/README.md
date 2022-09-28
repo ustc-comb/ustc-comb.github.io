@@ -1,3 +1,3 @@
-# Domo Website
+# Website of the USTC Combinatorics Group
 
-demo
+Website of the USTC Combinatorics Group

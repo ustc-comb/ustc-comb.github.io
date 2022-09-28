@@ -1,20 +1,12 @@
-- name: <a href="https://ustc.edu.cn/">Example1</a>
-  photo: USTC.jpg
-  info: Example
-  email: Example@Example.com
+- name: <a href="http://staff.ustc.edu.cn/~jiema/">Ma (马), Jie (杰)</a>
+  photo: jiema2021.jpg
+  info: I am a professor at the School of Mathematical Sciences, University of Science and Technology of China (USTC).<br />I am an associate editor at SIAM Journal on Discrete Mathematics since 2018. I received The National Science Fund for Excellent Young Scholars (国家自然科学基金委优秀青年基金) in 2016 and The National Science Fund for Distinguished Young Scholars (国家自然科学基金委杰出青年基金) in 2021.
+  email: jiema@ustc.edu.cn
   number_educ: 5
-  education1: Example
-  education2: Example
-  education3: Example
-  education4: Example
-  education5: Example
+  education1: Professor, School of Mathematical Sciences, University of Science and Technology of China
+  education2: Postdoctoral Associate, Department of Mathematical Sciences, Carnegie Mellon University
+  education3: Hedrick Assistant Professor, Department of Mathematics, UCLA
+  education4: Ph.D. in Mathematics, Thesis Advisor:Prof. Xingxing Yu, School of Mathematics, Georgia Institute of Technology
+  education5: B.Sc. in Mathematics, Department of Mathematics, University of Science and Technology of China 
 
-- name: <a href="https://ustc.edu.cn/">Example2</a>
-  photo: USTC.jpg
-  info: Example
-  email: Example@Example.com
-  number_educ: 3
-  education1: Example
-  education2: Example
-  education3: Example
 

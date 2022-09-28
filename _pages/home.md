@@ -6,8 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -41,14 +39,11 @@ Introduction here.Introduction here.Introduction here.Introduction here.Introduc
 
 
 
-Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.
+We are a research group at the School of Mathematical Sciences, University of Science and Technology of China ([USTC](https://ustc.edu.cn/)). 
 
-Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.
+Our research interests focus on extremal combinatorics, graph theory, probabilistic methods in combinatorics, and their applications to theoretical computer science, information theory and optimization. 
 
- **Introduction here.Introduction here.Introduction here.Introduction here.** 
-
-
-Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.Introduction here.
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team (more info) !**
 
 <div align=center>
 &nbsp;<br>
