@@ -5,9 +5,9 @@
 #  number_educ: 0
 #  education1:
 
-name: Xie，Tianying
-photo: USTC.jpg
-info: PhD student
-email: xiety@mail.ustc.edu.cn
-number_educ: 1
-education1: B.Sc. at Jilin University 
+- name: Xie，Tianying
+  photo: USTC.jpg
+  info: PhD student
+  email: xiety@mail.ustc.edu.cn
+  number_educ: 1
+  education1: B.Sc. at Jilin University 
