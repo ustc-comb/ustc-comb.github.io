@@ -1,12 +1,12 @@
-- name: <a href="http://staff.ustc.edu.cn/~jiema/">Ma (马), Jie (杰)</a>
+- name: <a href="http://staff.ustc.edu.cn/~jiema/">Jie Ma</a>
   photo: jiema2021.jpg
-  info: Group leader, professor at the School of Mathematical Sciences, University of Science and Technology of China (USTC).
+  info: Group leader. Professor.<br>Research Interests:<br>Extremal Combinatorics, Graph Theory, Probabilistic Methods in Combinatorics, and their applications to theoretical Computer Science and Optimization
   email: jiema@ustc.edu.cn
-  number_educ: 4
+  number_educ: 2
   #education1: Professor, School of Mathematical Sciences, University of Science and Technology of China
-  education1: Postdoctoral Associate, Department of Mathematical Sciences, Carnegie Mellon University
-  education2: Hedrick Assistant Professor, Department of Mathematics, UCLA
-  education3: Ph.D. in Mathematics, Thesis Advisor:Prof. Xingxing Yu, School of Mathematics, Georgia Institute of Technology
-  education4: B.Sc. in Mathematics, Department of Mathematics, University of Science and Technology of China 
+  #education1: Postdoctoral Associate, Department of Mathematical Sciences, Carnegie Mellon University
+  #education2: Hedrick Assistant Professor, Department of Mathematics, UCLA
+  education1: Ph.D. in Mathematics, Thesis Advisor:Prof. Xingxing Yu, School of Mathematics, Georgia Institute of Technology
+  education2: B.Sc. in Mathematics, Department of Mathematics, University of Science and Technology of China 
 
 
