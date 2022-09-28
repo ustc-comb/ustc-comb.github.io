@@ -8,7 +8,7 @@ permalink: /members/
 
 # Group Members
 
-## Staff
+## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.staff %}
 
