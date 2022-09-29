@@ -1,6 +1,6 @@
 - name: <a href="http://staff.ustc.edu.cn/~spliu/">Shiping Liu</a>
   photo: ShipingParis.jpeg
-  info: Specially Appointed Professor.
+  info: Specially Appointed Professor
   Office: Management Building,1611
   email: spliu@ustc.edu.cn
   number_educ: 2
@@ -21,11 +21,11 @@
 
 - name: <a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a>
   photo: tuantran.png
-  info: Specially Appointed Professor.
+  info: Specially Appointed Professor
   Office: Management Building, 1409
   email: trantuan@ustc.edu.cn
-  number_educ: 4
+  number_educ: 3
   education1: Extremal and Probabilistic Combinatorics
   education2: Ramsey Theory
   education3: Additive Combinatorics
-  education4: Discrete Geometry
+ 
