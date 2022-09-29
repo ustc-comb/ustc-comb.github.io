@@ -39,11 +39,11 @@ permalink: /
 
 
 
-This website is for the Combinatorics Group at the School of Mathematical Sciences, University of Science and Technology of China (USTC).
+This is the homepage of the Combinatorics Group at the School of Mathematical Sciences, University of Science and Technology of China (USTC).
 
-Our research interest lies in different branches of Combinatorics, including graph theory, extremal combinatorics, probabilistic combinatorics, combinatorial design, and their applications to theoretical computer science, information theory and optimization.
+Our research interests cover various branches of Combinatorics, including graph theory, extremal combinatorics, probabilistic combinatorics, combinatorial design, and their applications to theoretical computer science, information theory and optimization.
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/hiring)) !**
+**We are looking for passionate new Postdocs, PhD students, and Master students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/hiring)) !**
 
 <div align=center>
 &nbsp;<br>
