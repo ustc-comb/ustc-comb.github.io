@@ -22,10 +22,9 @@ permalink: /seminar/
 {% endif %}
 <div class="col-sm-6 clearfix">
  <div class="well">
+ <p><font size="5" color="green">{{ publi.date }}: {{ publi.speakers }}</font></p>
   <pubtit><font size="4">{{ publi.title }}</font></pubtit>
-<p><em><strong>Date:</strong> </em>{{ publi.date }}</p>
 <p><em><strong>Abstract: </strong></em>{{ publi.abstract }}</p>
-  <p><em><strong>Speaker:</strong> {{ publi.speakers }}</em></p>
   <p>{{ publi.meeting.room }}<br>{{ publi.meeting.password }}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>

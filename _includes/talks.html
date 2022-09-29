@@ -3,7 +3,7 @@
 <h4>Talks</h4>
 
 {% for talk in site.data.seminar limit:3 %}
-<p><font color="#6d9eeb"><strong>Date: {{ talk.date }}</strong></font><br><strong>{{ talk.title }}</strong><br><strong><em>Abstract: </em></strong>{{ talk.abstract }}<br><strong><em>Speaker: </em></strong>{{ talk.speakers }}<br>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}</p>
+<p><font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}</strong><br><strong><em>Abstract: </em></strong>{{ talk.abstract }}<br>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/seminar">... see all Talks</a></h4>

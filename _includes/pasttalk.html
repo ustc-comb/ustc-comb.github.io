@@ -16,12 +16,12 @@
        {% for publi in year.items %}
        {% if publi.highlight  == 0 %}
 <li>
-<strong>{{ publi.title }}</strong> <br /><em>Date: </em>{{ publi.date }}<br />
+<font>{{ publi.date }}: {{ publi.speakers }}</font><br />
+<strong>{{ publi.title }}</strong> <br />
   <details>
 <summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
 {{ publi.abstract }}
 </details>
-  <em>Speaker: {{ publi.speakers }} </em><br />
 </li>
       {% endif %}
       {% endfor %}

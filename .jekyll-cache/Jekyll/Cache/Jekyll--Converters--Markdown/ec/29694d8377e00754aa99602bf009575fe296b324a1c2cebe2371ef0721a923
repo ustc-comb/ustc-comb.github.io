@@ -1,4 +1,4 @@
-I"<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+I"`<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -33,10 +33,15 @@
 
 <p>Our research interests focus on extremal combinatorics, graph theory, probabilistic methods in combinatorics, and their applications to theoretical computer science, information theory and optimization.</p>
 
-<p><strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team (more info) !</strong></p>
+<p><strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team (<a href="http://localhost:4000/hiring">more info</a>) !</strong></p>
 
 <div align="center">
   <p> <br />
+ <br />
+ <br />
+ <br />
+ <br />
+ <br />
  <br />
  <br />
 <!--<img src="http://localhost:4000/images/logopic/logo.svg" style="width: 300px">--></p>

@@ -2,7 +2,7 @@
   year: 2022
   date: Thursday (Sep 29, 2022), 3-4 pm
   abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
-  speakers: Jie Han, Beijing Institute of Technology
+  speakers: <a href="https://jiehan773.github.io/">Jie Han</a> (Beijing Institute of Technology)
   meeting:
     room: <strong>Tencent Meeting ID:&nbsp;</strong>886562915
     password: <strong>Passcord:&nbsp;</strong>0929
