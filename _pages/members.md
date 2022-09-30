@@ -10,7 +10,7 @@ permalink: /members/
 
 ## Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.staff %}
+{% for member in site.data.Faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

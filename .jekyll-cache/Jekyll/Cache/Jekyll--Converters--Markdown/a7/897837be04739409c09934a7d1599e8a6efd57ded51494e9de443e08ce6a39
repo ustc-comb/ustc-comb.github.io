@@ -1,0 +1,107 @@
+I"f
+<h1 id="group-members">Group Members</h1>
+
+<h2 id="faculty">Faculty</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/ShipingParis.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="http://staff.ustc.edu.cn/~spliu/">Shiping Liu</a></h4>
+    <p><i>Specially Appointed Professor <br />Office: Management Building,1611<br />Email: <a href="mailto:spliu@ustc.edu.cn">spliu@ustc.edu.cn</a></i><br />Research interests:</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Spectral graph theory </li>
+  <li> Discrete Ricci curvatures and related geometric and analytic problems </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/jiema2021.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="http://staff.ustc.edu.cn/~jiema/">Jie Ma</a></h4>
+    <p><i>Professor <br />Office: Management Building, 1603<br />Email: <a href="mailto:jiema@ustc.edu.cn">jiema@ustc.edu.cn</a></i><br />Research interests:</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Extremal and Probabilistic Combinatorics </li>
+  <li> Graph Theory </li>
+  <li> Applications to Information Theory and Theoretical Computer Science </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/tuantran.png" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></h4>
+    <p><i>Specially Appointed Professor <br />Office: Management Building, 1409<br />Email: <a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a></i><br />Research interests:</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Extremal and Probabilistic Combinatorics </li>
+  <li> Ramsey Theory </li>
+  <li> Additive Combinatorics </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/zhangxiande.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="staff.ustc.edu.cn/~drzhangx/">Xiande Zhang</a></h4>
+    <p><i>Specially Appointed Professor. <br />Office: Management Building,1607<br />Email: <a href="mailto:drzhangx@ustc.edu.cn">drzhangx@ustc.edu.cn</a></i><br />Research interests:</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+  <li> Combinatorics </li>
+  <li> Coding Theory </li>
+  <li> Information Theory<br />And their interactions. </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="research-fellows">Research Fellows</h2>
+
+:ET

@@ -39,7 +39,7 @@ permalink: /
 
 
 
-This is the homepage of the Combinatorics Group at the School of Mathematical Sciences, University of Science and Technology of China (USTC).
+This is the homepage of the Combinatorics Group at the School of Mathematical Sciences, University of Science and Technology of China ([USTC](https://ustc.edu.cn/)).
 
 Our research interests cover various branches of Combinatorics, including graph theory, extremal combinatorics, probabilistic combinatorics, combinatorial design, and their applications to theoretical computer science, information theory and optimization.
 
