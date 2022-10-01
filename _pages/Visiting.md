@@ -17,7 +17,7 @@ permalink: /Visiting.html
 		         Hefei 230026,
 	       	  Anhui Province, P.R.China   (<a href="https://goo.gl/maps/TonRiuGeXrhMx1su7">Maps</a>)
 
-**Email:** example
+**Email:** <ustc_comb@163.com>
 
 ## Campus Areas Maps
 
