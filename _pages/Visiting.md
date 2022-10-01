@@ -21,5 +21,5 @@ permalink: /Visiting.html
 
 ## Campus Areas Maps
 
-<div align=center><img width="600px" height="500px" src="http://math.ustc.edu.cn/_upload/article/images/b1/fe/76c7d1a3401e8f79af85f83735b4/3b17121f-ef0c-44df-8a4a-8fe29bcaef03.jpg">
+<div align=center><img width="100%" height="100%" src="http://math.ustc.edu.cn/_upload/article/images/b1/fe/76c7d1a3401e8f79af85f83735b4/3b17121f-ef0c-44df-8a4a-8fe29bcaef03.jpg">
 </div>
