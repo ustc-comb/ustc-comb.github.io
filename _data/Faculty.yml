@@ -1,7 +1,7 @@
 - name: Xinmin Hou
   photo: houxinmin.jpeg
-  info: Associate Professor.
-  Office: Management Building,1317
+  info: Associate Professor
+  Office: Management Building, 1317
   email: xmhou@ustc.edu.cn
   number_educ: 3
   education1: Structural Graph Theory
@@ -10,8 +10,8 @@
   
 - name: <a href="http://staff.ustc.edu.cn/~koolen/">Jack Koolen</a>
   photo: jack.jpg
-  info: Professor.
-  Office: Management Building,1625
+  info: Professor
+  Office: Management Building, 1625
   email: koolen@ustc.edu.cn
   number_educ: 3
   education1: Combinatorial Mathematics
@@ -20,8 +20,8 @@
 
 - name: <a href="http://staff.ustc.edu.cn/~spliu/">Shiping Liu</a>
   photo: ShipingParis.jpeg
-  info: Specially Appointed Professor.
-  Office: Management Building,1611
+  info: Specially Appointed Professor
+  Office: Management Building, 1611
   email: spliu@ustc.edu.cn
   number_educ: 2
   education1: Spectral graph theory
@@ -29,7 +29,7 @@
 
 - name: <a href="http://staff.ustc.edu.cn/~jiema/">Jie Ma</a>
   photo: jiema2021.jpeg
-  info: Professor.
+  info: Professor
   Office: Management Building, 1603
   email: jiema@ustc.edu.cn
   number_educ: 3
@@ -41,7 +41,7 @@
 
 - name: <a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a>
   photo: tuantran.png
-  info: Specially Appointed Professor.
+  info: Specially Appointed Professor
   Office: Management Building, 1409
   email: trantuan@ustc.edu.cn
   number_educ: 3
@@ -51,12 +51,12 @@
  
 - name: <a href="http://staff.ustc.edu.cn/~drzhangx/">Xiande Zhang</a>
   photo: zhangxiande.jpeg
-  info: Specially Appointed Professor.
-  Office: Management Building,1607
+  info: Specially Appointed Professor
+  Office: Management Building, 1607
   email: drzhangx@ustc.edu.cn
   number_educ: 3
   education1: Combinatorics
   education2: Coding Theory
-  education3: Information Theory<br>And their interactions.
+  education3: Information Theory<br>and their interactions.
 
  
