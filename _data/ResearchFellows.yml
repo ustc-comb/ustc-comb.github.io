@@ -3,4 +3,22 @@
 #  info: Example
 #  email: Example@Example.com
 
+- name: Guorong Gao
+  photo: gaoguorong.jpeg
+  info: Postdoctor
+  email: gaoguorong@ustc.edu.cn
 
+- name: Xihe Li
+  photo: lixihe.jpeg
+  info: Postdoctor
+  email: lixihe@ustc.edu.cn
+
+- name: Guanwu Liu
+  photo: liuguanwu.jpeg
+  info: Postdoctor
+  email: liuguanwu@ustc.edu.cn
+
+- name: Rongxing Xu
+  photo: XRX.jpeg
+  info: Postdoctor
+  email: xurongxing@ustc.edu.cn
