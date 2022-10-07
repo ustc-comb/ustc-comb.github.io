@@ -1,4 +1,4 @@
-- title: Perfect Matchings in hypergraphs
+- title: Perfect Matchings in hypergraphs <a href="https://www.bilibili.com/video/BV12g411Y78G">video</a>
   year: 2022
   date: Thursday (Sep 29, 2022), 3-4 pm
   abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
