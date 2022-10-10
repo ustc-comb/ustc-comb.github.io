@@ -1,3 +1,13 @@
+- title: Partition of graphs with high minimum degree
+  year: 2022
+  date: Thursday (Oct 13, 2022), 3-4 pm
+  abstract: In 2003, Kuhn and Osthus showed that for every number k, every graph with minimum degree at least l(k)=3*2^11*k^2 can be partition into none-empty sets S and T, such that both G[S] and G[T] has minimum degree at least k, and each vertex of S has at least k neighbors in T.  We improve this result by showing that it is true for l(k)=100k when k is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China. 
+  speakers: <a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)
+  meeting:
+    room: <strong>Tencent Meeting ID:&nbsp;</strong>561992652
+    password: <strong>Passcord:&nbsp;</strong>1013
+  highlight: 1
+
 - title: Perfect Matchings in hypergraphs <a href="https://www.bilibili.com/video/BV12g411Y78G">video</a>
   year: 2022
   date: Thursday (Sep 29, 2022), 3-4 pm
