@@ -1,8 +1,18 @@
 
 <div class="well">
+<h4>Notice on Forthcoming Talks</h4>
+
+<ul>
+<li class="company" style="list-style-type: circle;">Oct 27, Guanghui Wang, Shandong University.</li>
+<li class="company" style="list-style-type: circle;">Nov 10, Xue Chen, USTC, offline talk.</li>
+<li class="company" style="list-style-type: circle;">Nov 24, Hongliang Lu, Xi'an Jiaotong University.</li>
+</ul>
+
+<p>Titles and abstract of these talks will be announced later (TBA).</p>
+
 <h4>Talks</h4>
 
-{% for talk in site.data.seminar limit:3 %}
+{% for talk in site.data.seminar limit:1 %}
 <p><font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}</strong><br><strong><em>Abstract: </em></strong>{{ talk.abstract }}<br>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}</p>
 {% endfor %}
 
