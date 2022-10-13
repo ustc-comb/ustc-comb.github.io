@@ -1,15 +1,13 @@
 
 <div class="well">
 {% if site.data.ForthcomingTalks %}
-<h4>Notice on Forthcoming Talks</h4>
+<h4>Upcoming Talks</h4>
 
 <ul>
 {% for ftalk in site.data.ForthcomingTalks %}
 <li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
 {% endfor %}
 </ul>
-
-<p>Titles and abstract of these talks will be announced later (TBA).</p>
 {% endif %}
 
 <h4>Talks</h4>
