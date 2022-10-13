@@ -9,6 +9,17 @@ permalink: /seminar/
 
 # Combinatorics Seminar
 
+{% if site.data.ForthcomingTalks %}
+<div class="well">
+<h4>Notice on Forthcoming Talks</h4>
+<ul>
+{% for ftalk in site.data.ForthcomingTalks %}
+<li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
+{% endfor %}
+</ul>
+<p>Titles and abstract of these talks will be announced later (TBA).</p>
+</div>
+{% endif %}
 ## Upcoming talks
 
 {% assign number_printed = 0 %}
