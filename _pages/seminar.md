@@ -17,7 +17,6 @@ permalink: /seminar/
 <li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
 {% endfor %}
 </ul>
-<p>Titles and abstract of these talks will be announced later (TBA).</p>
 </div>
 {% endif %}
 ## Upcoming talks
