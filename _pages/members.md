@@ -80,19 +80,12 @@ permalink: /members/
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-
-<div class="row">
+<div class="row" style="margin-bottom: 0px;">
 {% endif %}
 
-
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-
-  </ul>
+  <i>Email: <{{ member.email }}></i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -108,3 +101,21 @@ permalink: /members/
 </div>
 {% endif %}
 
+
+## Students
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+<h4>Ph.D students</h4>
+{% for member in site.data.phd %}
+{{ member.info }}
+{% endfor %}
+</div>
+
+<div class="col-sm-6 clearfix">
+<h4>Master students</h4>
+{% for member in site.data.msc %}
+{{ member.info }}
+{% endfor %}
+</div>
+</div>

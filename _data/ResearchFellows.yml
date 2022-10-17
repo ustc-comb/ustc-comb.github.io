@@ -4,17 +4,16 @@
 #  email: Example@Example.com
 
 - name: Guorong Gao
-  photo: gaoguorong.jpeg
   email: gaoguorong@ustc.edu.cn
 
 - name: Xihe Li
-  photo: lixihe.jpeg
   email: lixihe@ustc.edu.cn
 
 - name: Guanwu Liu
-  photo: liuguanwu.jpeg
   email: liuguanwu@ustc.edu.cn
 
 - name: Rongxing Xu
-  photo: XRX.jpeg
   email: xurongxing@ustc.edu.cn
+  
+- name: Yanzhen Xiong
+  email: 

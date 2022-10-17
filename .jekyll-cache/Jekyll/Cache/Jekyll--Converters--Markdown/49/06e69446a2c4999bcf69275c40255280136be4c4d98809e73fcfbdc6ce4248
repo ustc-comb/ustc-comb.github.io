@@ -1,125 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>USTC Combinatorics Group - Members</title>
-  <meta name="google-site-verification" content="t13caX7YislnVkHoTjyfGDUjomQKxgraKT12XiMfHzY" />
-  <meta name="description" content="USTC Combinatorics Group: Team members">
-  <link rel="stylesheet" href="http://localhost:4000/css/main.css">
-  <link rel="canonical" href="http://localhost:4000/members/">
-<link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  <script> 
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$']],
-    processEscapes: true
-  }
-};
-</script>
-
-<style>
-.dropbtn {
-    display: block;
-    color: #999999;
-    text-align: center;
-    padding: 13px 14px;
-    text-decoration: none;
-}
-
-.dropbtn:hover {
-    color: black;
-    text-decoration: none;
-}
-
-.dropdown {
-    display: inline-block;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 999;
-}
-
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-</style>
-
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <img style="float:left; margin: 5px; " src="http://localhost:4000/images/logopic/logo.png" width="40px" height="40px"><a class="navbar-brand" href="http://localhost:4000/" style="
-    padding: 15px 8px;
-">USTC Combinatorics Group</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="http://localhost:4000/">Home</a></li>
-		<li>
-		<div class="dropdown">
-    <a href="#" class="dropbtn">People</a>
-    <div class="dropdown-content">
-      <a href="http://localhost:4000/members">Members</a>
-      <a href="http://localhost:4000/visitors">Visitors</a>
-      <a href="http://localhost:4000/former">Former Members</a>
-    </div>
-  </div>
-  </li>
-		<li>
-		<div class="dropdown">
-    <a href="#" class="dropbtn">Events</a>
-    <div class="dropdown-content">
-      <a href="http://localhost:4000/seminar">Seminar</a>
-      <a href="http://localhost:4000/workshops">Workshops and Conferences</a>
-    </div>
-  </div>
-  </li>
-		<li><a href="http://localhost:4000/news">News</a></li>
-		<li><a href="http://localhost:4000/hiring">Hiring</a></li>
-		<li><a href="http://localhost:4000/Visiting.html">Visiting</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="gridid" class="col-sm-12">
-  <h1 id="group-members">Group Members</h1>
+I"><h1 id="group-members">Group Members</h1>
 
 <h2 id="faculty">Faculty</h2>
 
@@ -302,19 +181,10 @@ MathJax = {
 
 </div>
 
-<div class="row" style="margin-bottom: 0px;">
-
-  <div class="col-sm-6 clearfix">
-    <h4>Yanzhen Xiong</h4>
-    <p><i>Email: &lt;&gt;</i></p>
-  </div>
-
-</div>
-
 <h2 id="students">Students</h2>
 <div class="row">
 
-  <div class="col-sm-6 clearfix">
+  <div class="col-sm-4 clearfix">
     <h4>Ph.D students</h4>
 
     <p>Tianying Xie, Phd student since 2016</p>
@@ -343,59 +213,15 @@ MathJax = {
 
   </div>
 
-  <div class="col-sm-6 clearfix">
+  <div class="col-sm-4 clearfix">
     <h4>Master students</h4>
 
-    <p>Sheng He, Master student since 2021</p>
+  </div>
 
-    <p>Yufan Wang, Master student since 2021</p>
-
-    <p>Chengxi Yang, Master student since 2021</p>
-
-    <p>Zhengyun Ma, Master student since 2021</p>
-
-    <p>Tianrui Bi, Master student since 2022</p>
-
-    <p>Liren Xu, Master student since 2022</p>
-
-    <p>Yuchang Wang, Master student since 2022</p>
-
-    <p>Zhiheng Zheng, Master student since 2022</p>
+  <div class="col-sm-4 clearfix">
+    <h4>Bachelor Students</h4>
 
   </div>
-</div>
 
 </div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel" style="margin-bottom: 0px;">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row" style="display: flex;
-    justify-content: center;">
-		<div class="col-sm-4" style="text-align: center;">
-
-		  <p>&copy 2022 USTC Combinatorics Group.</p>
-              
-
-
-		   <p>  </p><p>
-
-
-		</div>
-		
-		
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="http://localhost:4000/js/jquery.min.js"></script>
-<script src="http://localhost:4000/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
