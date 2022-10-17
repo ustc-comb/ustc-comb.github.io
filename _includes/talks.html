@@ -12,9 +12,9 @@
 
 <h4>Talks</h4>
 
-{% for talk in site.data.seminar limit:1 %}
-<p><font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}</strong><br><strong><em>Abstract: </em></strong>{{ talk.abstract }}<br>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}</p>
+{% for talk in site.data.seminar limit:3 %}
+<p><font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>Title: </strong>{{ talk.title }}<br>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}</p>
 {% endfor %}
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/seminar">... see all Talks</a></h4>
+<h4><a href="{{ site.url }}{{ site.baseurl }}/seminar">... view details</a></h4>
 </div>
