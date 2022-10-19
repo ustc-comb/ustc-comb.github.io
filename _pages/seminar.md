@@ -13,7 +13,7 @@ permalink: /seminar/
 
 {% if site.data.ForthcomingTalks %}
 <div class="well">
-<ul>
+<ul style="margin-bottom: 0px;">
 {% for ftalk in site.data.ForthcomingTalks %}
 <li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
 {% endfor %}
