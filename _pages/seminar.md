@@ -9,9 +9,10 @@ permalink: /seminar/
 
 # Combinatorics Seminar
 
+## Upcoming talks
+
 {% if site.data.ForthcomingTalks %}
 <div class="well">
-<h4>Notice on Forthcoming Talks</h4>
 <ul>
 {% for ftalk in site.data.ForthcomingTalks %}
 <li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
@@ -19,7 +20,6 @@ permalink: /seminar/
 </ul>
 </div>
 {% endif %}
-## Upcoming talks
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.seminar %}
