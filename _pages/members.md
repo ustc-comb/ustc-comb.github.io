@@ -85,7 +85,9 @@ permalink: /members/
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
+  {% if  member.email %}
   <i>Email: <{{ member.email }}></i>
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
