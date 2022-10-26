@@ -13,7 +13,7 @@
 <h4>Talks</h4>
 
 {% for talk in site.data.seminar limit:2 %}
-<font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}{% if talk.videolink %} <a href="{{ talk.videolink }}">video</a>{% endif %}</strong><br /><details>
+<font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}{% if talk.videolink %} <a href="{{ talk.videolink }}">video</a>{% endif %}{% if talk.slidelink %} <a href="{{ talk.slidelink }}">slides</a>{% endif %}</strong><br /><details>
 <summary><font><u>Abstract(Click to expand)</u></font></summary>
 {{ talk.abstract }}
 </details><strong>{{ talk.meeting.platform }} ID:&nbsp;</strong>{{ talk.meeting.room }}<br><strong>Passcode:&nbsp;</strong>{{ talk.meeting.password }}<hr />

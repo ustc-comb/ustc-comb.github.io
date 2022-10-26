@@ -8,6 +8,7 @@
     room: 99548146105
     password: 1958
   videolink: 
+  slidelink: 
   highlight: 1
 
 - title: Partition of graphs with high minimum degree
@@ -20,6 +21,7 @@
     room: 561992652
     password: 1013
   videolink: 
+  slidelink: 
   highlight: 0
 
 - title: Perfect Matchings in hypergraphs
@@ -32,6 +34,7 @@
     room: 886562915
     password: 0929
   videolink: https://www.bilibili.com/video/BV12g411Y78G
+  slidelink: 
   highlight: 0
 
 
