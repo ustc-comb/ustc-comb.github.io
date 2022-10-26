@@ -43,7 +43,7 @@ This is the homepage of the Combinatorics Group at the School of Mathematical Sc
 
 Our research interests cover various branches of Combinatorics, including graph theory, extremal combinatorics, probabilistic combinatorics, combinatorial design, and their applications to theoretical computer science, information theory and optimization.
 
-**We are looking for passionate new Postdocs, PhD students, and Master students to join the team ([more info]({{ site.url }}{{ site.baseurl }}/hiring)) !**
+**We are looking for highly motivated Postdocs, PhD students, and Master students to join the group ([more info]({{ site.url }}{{ site.baseurl }}/hiring)) !**
 
 <div align=center>
 &nbsp;<br>
