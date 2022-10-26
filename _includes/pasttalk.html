@@ -17,7 +17,7 @@
        {% if publi.highlight  == 0 %}
 <li>
 <font>{{ publi.date }}: {{ publi.speakers }}</font><br />
-<strong>{{ publi.title }}</strong> <br />
+<strong>{{ publi.title }}{% if publi.videolink %} <a href="{{ publi.videolink }}">video</a>{% endif %}</strong> <br />
   <details>
 <summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
 {{ publi.abstract }}

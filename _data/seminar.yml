@@ -7,6 +7,7 @@
     platform: Tencent Meeting
     room: 99548146105
     password: 1958
+  videolink: 
   highlight: 1
 
 - title: Partition of graphs with high minimum degree
@@ -18,9 +19,10 @@
     platform: Tencent Meeting
     room: 561992652
     password: 1013
+  videolink: 
   highlight: 0
 
-- title: Perfect Matchings in hypergraphs <a href="https://www.bilibili.com/video/BV12g411Y78G">video</a>
+- title: Perfect Matchings in hypergraphs
   year: 2022
   date: Thursday (Sep 29, 2022), 3-4 pm
   abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
@@ -29,6 +31,7 @@
     platform: Tencent Meeting
     room: 886562915
     password: 0929
+  videolink: https://www.bilibili.com/video/BV12g411Y78G
   highlight: 0
 
 
