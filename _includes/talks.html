@@ -16,7 +16,7 @@
 <font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}</strong><br /><details>
 <summary><font><u>Abstract(Click to expand)</u></font></summary>
 {{ talk.abstract }}
-</details>{{ talk.meeting.room }}<br>{{ talk.meeting.password }}<hr />
+</details><strong>{{ talk.meeting.platform }} ID:&nbsp;</strong>{{ talk.meeting.room }}<br><strong>Passcode:&nbsp;</strong>{{ talk.meeting.password }}<hr />
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/seminar">... see all Talks</a></h4>

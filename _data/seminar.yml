@@ -4,8 +4,9 @@
   abstract: An archetype problem in extremal combinatorics is to study the structure of subgraphs appearing in different classes of (hyper)graphs. We will focus on such embedding problems in “random like” graphs. In practice, we will mention ramsey-turan problems and related results. 
   speakers: <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)
   meeting:
-    room: <strong>Tencent Meeting ID:&nbsp;</strong>99548146105
-    password: <strong>Passcord:&nbsp;</strong>1958
+    platform: Tencent Meeting
+    room: 99548146105
+    password: 1958
   highlight: 1
 
 - title: Partition of graphs with high minimum degree
@@ -14,8 +15,9 @@
   abstract: In 2003, Kuhn and Osthus showed that for every number $k$, every graph with minimum degree at least $l(k)=3\times 2^{11}\times k^2$ can be partition into none-empty sets $S$ and $T$, such that both $G[S]$ and $G[T]$ has minimum degree at least $k$, and each vertex of $S$ has at least $k$ neighbors in $T$.  We improve this result by showing that it is true for $l(k)=100k$ when $k$ is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China. 
   speakers: <a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)
   meeting:
-    room: <strong>Tencent Meeting ID:&nbsp;</strong>561992652
-    password: <strong>Passcord:&nbsp;</strong>1013
+    platform: Tencent Meeting
+    room: 561992652
+    password: 1013
   highlight: 0
 
 - title: Perfect Matchings in hypergraphs <a href="https://www.bilibili.com/video/BV12g411Y78G">video</a>
@@ -24,8 +26,9 @@
   abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
   speakers: <a href="https://jiehan773.github.io/">Jie Han</a> (Beijing Institute of Technology)
   meeting:
-    room: <strong>Tencent Meeting ID:&nbsp;</strong>886562915
-    password: <strong>Passcord:&nbsp;</strong>0929
+    platform: Tencent Meeting
+    room: 886562915
+    password: 0929
   highlight: 0
 
 
