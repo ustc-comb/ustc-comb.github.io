@@ -1,0 +1,23 @@
+---
+layout: none
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>USTC Combinatorics Seminar</title>
+		<description>Talks of USTC Combinatorics Seminar</description>
+		<link>https://ustc-comb.github.io/seminar/</link>
+		<atom:link href="https://ustc-comb.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.data.seminar limit:10 %}
+			<item>
+			   <title>{{ post.title }}</title>
+			   <description>Date: {{ post.date }}</description>
+			   <description>Date: {{ post.speakers }}</description>
+			   <description>{{ post.abstract | xml_escape }}</description>
+			   <link>https://ustc-comb.github.io/seminar/</link>
+			   <guid isPermaLink="true">https://ustc-comb.github.io/seminar/</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
