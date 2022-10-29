@@ -9,9 +9,7 @@ permalink: /seminar/
 
 # Combinatorics Seminar
 
-<font size="4" color="grey" style="float: right;"><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">[Subscribe RSS]</a></font>
-
-## Upcoming talks
+## Upcoming talks<font size="4" color="grey" style="float: right;"><i class="fa-solid fa-rss"></i><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">RSS</a></font>
 
 {% if site.data.ForthcomingTalks %}
 <div class="well">
