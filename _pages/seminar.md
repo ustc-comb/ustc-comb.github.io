@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 
 
-# Combinatorics Seminar
+# Combinatorics Seminar<sub><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">[Subscribe RSS]</a></sub>
 
 ## Upcoming talks
 
