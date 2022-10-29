@@ -7,7 +7,9 @@ permalink: /seminar/
 ---
 
 
-# Combinatorics Seminar<font size="4" color="grey" style="float: right;"><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">[Subscribe RSS]</a></font>
+# Combinatorics Seminar
+
+<font size="4" color="grey" style="float: right;"><a href="{{ site.url }}{{ site.baseurl }}/feed.xml">[Subscribe RSS]</a></font>
 
 ## Upcoming talks
 
