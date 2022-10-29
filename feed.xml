@@ -13,7 +13,7 @@ layout: none
 			<item>
 			   <title>{{ post.title }}</title>
 			   <description>Date: {{ post.date }}</description>
-			   <description>Date: {{ post.speakers }}</description>
+			   <description>Speaker: {{ post.speakers }}</description>
 			   <description>{{ post.abstract | xml_escape }}</description>
 			   <link>https://ustc-comb.github.io/seminar/</link>
 			   <guid isPermaLink="true">https://ustc-comb.github.io/seminar/</guid>
