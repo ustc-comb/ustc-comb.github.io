@@ -1,0 +1,49 @@
+I"X	
+<h1 id="talks-in-2022">Talks in 2022</h1>
+<div>
+
+  <ul id="2022">
+
+       
+       
+<li>
+<font>Thursday (Oct 27, 2022), 3-4 pm: <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)</font><br />
+<strong>Embeddings in “random like” graphs</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+An archetype problem in extremal combinatorics is to study the structure of subgraphs appearing in different classes of (hyper)graphs. We will focus on such embedding problems in “random like” graphs. In practice, we will mention ramsey-turan problems and related results.
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Thursday (Oct 13, 2022), 3-4 pm: <a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)</font><br />
+<strong>Partition of graphs with high minimum degree</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+In 2003, Kuhn and Osthus showed that for every number $k$, every graph with minimum degree at least $l(k)=3\times 2^{11}\times k^2$ can be partition into none-empty sets $S$ and $T$, such that both $G[S]$ and $G[T]$ has minimum degree at least $k$, and each vertex of $S$ has at least $k$ neighbors in $T$.  We improve this result by showing that it is true for $l(k)=100k$ when $k$ is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China.
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Thursday (Sep 29, 2022), 3-4 pm: <a href="https://jiehan773.github.io/">Jie Han</a> (Beijing Institute of Technology)</font><br />
+<strong>Perfect Matchings in hypergraphs <a href="https://www.bilibili.com/video/BV12g411Y78G">video</a></strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.
+</details>
+<hr />
+</li>
+      
+      
+       
+
+</ul>
+
+</div>
+:ET

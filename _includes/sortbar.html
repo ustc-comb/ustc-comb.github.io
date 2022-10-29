@@ -1,0 +1,15 @@
+{% assign postsByYear =
+    site.data.seminar | group_by_exp:"seminar","seminar.year | year: '%Y'" %}
+{% assign size = postsByYear | size  %}
+{% if size > 1 %}
+<div>
+<ul>
+<font size="4">Talks from:&nbsp;&nbsp;
+{% for year in postsByYear offset:1 %}
+<a href="{{ site.url }}{{ site.baseurl }}/sort/{{ year.name }}.html">{{ year.name }}</a>&nbsp;&nbsp;
+{% endfor %}
+</font>
+</ul>
+</div>
+{% endif %}
+
