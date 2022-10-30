@@ -9,7 +9,7 @@ permalink: /seminar/
 
 # Combinatorics Seminar
 
-<a href="{{ site.url }}{{ site.baseurl }}/feed.xml" style="float: right;"><img width="40px" src="{{ site.url }}{{ site.baseurl }}/images/rss.png"></a>
+<a href="{{ site.url }}{{ site.baseurl }}/feed.xml" style="float: right;"><img style="box-shadow: none;" width="40px" src="{{ site.url }}{{ site.baseurl }}/images/rss.png"></a>
 
 ## Upcoming talks
 
