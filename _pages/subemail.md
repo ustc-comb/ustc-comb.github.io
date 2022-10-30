@@ -1,6 +1,6 @@
 ---
 title: "Subscribe email"
-layout: default
+layout: gridlay
 excerpt: "Subscribe email."
 sitemap: false
 permalink: /subemail
