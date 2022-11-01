@@ -9,7 +9,7 @@ permalink: /hiring
 
 The School of Mathematical Sciences invites applications for Postdoctoral Positions to work closely with Professors Jie Ma and Tuan Tran. We are hiring up to 2 postdocs (within 5 years after PhD): 2 + possible 1-year extension.
 
-<br> Deadline: January 30th, 2023, until 18:00 CST
+Deadline: January 30th, 2023, until 18:00 CST
 
 We are seeking outstanding candidates working in either one of the following areas: extremal combinatorics, probabilistic combinatorics, graph theory, Ramsey theory, or combinatorial number theory.
 The successful candidates will join a community of researchers in the Combinatorics Group within the School of Mathematical Sciences, University of Science and Technology of China. The profile and research interests of the group may be found at: https://ustc-comb.github.io/
