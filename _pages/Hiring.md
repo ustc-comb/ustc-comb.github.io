@@ -17,7 +17,12 @@ The successful candidates will join a community of researchers in the Combinator
 
 The position comes with excellent research conditions and a starting salary of no less than 250,000 CNY. The anticipated starting date for this position is September 1, 2023, but an earlier or later starting date is also possible. The position does not carry teaching duties.
 
-Application Material Required: • Cover letter • Curriculum vitae • Research statement (max. 5 pages) • Publication list • At least 2 recommendation letters (3 letters are recommended)
+Application Material Required: 
+• Cover letter 
+• Curriculum vitae 
+• Research statement (max. 5 pages) 
+• Publication list • 
+At least 2 recommendation letters (3 letters are recommended)
 
 We only accept online applications through mathjobs.org: https://www.mathjobs.org/jobs/list/21349.
 
