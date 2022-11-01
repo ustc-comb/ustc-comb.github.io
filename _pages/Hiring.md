@@ -16,14 +16,14 @@ The successful candidates will join a community of researchers in the Combinator
 
 The position comes with excellent research conditions and a starting salary of no less than 250,000 CNY. The anticipated starting date for this position is September 1, 2023, but an earlier or later starting date is also possible. The position does not carry teaching duties.
 
-<b> Application Material Required: <\b> 
+<b> Application Material Required: </b> 
 <br>• Cover letter 
 <br>• Curriculum vitae 
 <br>• Research statement (max. 5 pages) 
 <br>• Publication list 
 <br>• At least 2 recommendation letters (3 letters are recommended)
 
-We only accept online applications through mathjobs.org: https://www.mathjobs.org/jobs/list/21349.
+<b> We only accept online applications through mathjobs.org:</b> https://www.mathjobs.org/jobs/list/21349.
 
 If you have questions concerning this position, please contact Jie Ma (jiema@ustc.edu.cn) or Tuan Tran (trantuan@ustc.edu.cn).
 
