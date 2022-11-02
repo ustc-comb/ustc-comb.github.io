@@ -1,3 +1,17 @@
+- title: feed test
+  year: 2022
+  pubdate: 2022-11-3
+  date: Thursday (Oct 27, 2022), 3-4 pm
+  abstract: feed test. 
+  speakers: <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">feed test</a> (feed test)
+  meeting:
+    platform: Tencent Meeting
+    room: feed test
+    password: feed test
+  videolink: 
+  slidelink: 
+  highlight: 0
+
 - title: Embeddings in “random like” graphs
   year: 2022
   pubdate: 2022-10-26
