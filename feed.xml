@@ -12,7 +12,7 @@ layout: none
 		{% for post in site.data.seminar limit:3 %}
 			<item>
 			   <title>{{ post.title }} | {{ post.date }}</title>
-			   <pubDate>{{ "now" | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+			   <pubDate>{{ post.pubdate | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 			   <description><![CDATA[Abstract: {{ post.abstract }}<p><strong>{{ post.meeting.platform }} ID:&nbsp;</strong>{{ post.meeting.room }}</p><p><strong>Passcode:&nbsp;</strong>{{ post.meeting.password }}</p><p><sub><i>{{ post.speakers }}</i></sub></p>
 ]]></description>
 			   <link>https://ustc-comb.github.io/seminar/</link>

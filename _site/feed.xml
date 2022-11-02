@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>USTC Combinatorics Seminar</title>
+		<description>Talks of USTC Combinatorics Seminar</description>
+		<link>https://ustc-comb.github.io/seminar/</link>
+		<atom:link href="https://ustc-comb.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+			   <title>Embeddings in “random like” graphs | Thursday (Oct 27, 2022), 3-4 pm</title>
+			   <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+			   <description><![CDATA[Abstract: An archetype problem in extremal combinatorics is to study the structure of subgraphs appearing in different classes of (hyper)graphs. We will focus on such embedding problems in “random like” graphs. In practice, we will mention ramsey-turan problems and related results.<p><strong>Tencent Meeting ID:&nbsp;</strong>99548146105</p><p><strong>Passcode:&nbsp;</strong>1958</p><p><sub><i><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)</i></sub></p>
+]]></description>
+			   <link>https://ustc-comb.github.io/seminar/</link>
+			   <guid isPermaLink="false">Embeddings in “random like” graphs</guid>
+			</item>
+		
+			<item>
+			   <title>Partition of graphs with high minimum degree | Thursday (Oct 13, 2022), 3-4 pm</title>
+			   <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+			   <description><![CDATA[Abstract: In 2003, Kuhn and Osthus showed that for every number $k$, every graph with minimum degree at least $l(k)=3\times 2^{11}\times k^2$ can be partition into none-empty sets $S$ and $T$, such that both $G[S]$ and $G[T]$ has minimum degree at least $k$, and each vertex of $S$ has at least $k$ neighbors in $T$.  We improve this result by showing that it is true for $l(k)=100k$ when $k$ is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China.<p><strong>Tencent Meeting ID:&nbsp;</strong>561992652</p><p><strong>Passcode:&nbsp;</strong>1013</p><p><sub><i><a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)</i></sub></p>
+]]></description>
+			   <link>https://ustc-comb.github.io/seminar/</link>
+			   <guid isPermaLink="false">Partition of graphs with high minimum degree</guid>
+			</item>
+		
+			<item>
+			   <title>Perfect Matchings in hypergraphs | Thursday (Sep 29, 2022), 3-4 pm</title>
+			   <pubDate>Wed, 28 Sep 2022 00:00:00 +0800</pubDate>
+			   <description><![CDATA[Abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.<p><strong>Tencent Meeting ID:&nbsp;</strong>886562915</p><p><strong>Passcode:&nbsp;</strong>0929</p><p><sub><i><a href="https://jiehan773.github.io/">Jie Han</a> (Beijing Institute of Technology)</i></sub></p>
+]]></description>
+			   <link>https://ustc-comb.github.io/seminar/</link>
+			   <guid isPermaLink="false">Perfect Matchings in hypergraphs</guid>
+			</item>
+		
+	</channel>
+</rss>
