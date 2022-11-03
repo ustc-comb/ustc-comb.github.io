@@ -1,6 +1,6 @@
 - title: Embeddings in “random like” graphs
   year: 2022
-  pubdate: 2022-11-3
+  pubdate: 2022-10-26
   date: Thursday (Oct 27, 2022), 3-4 pm
   abstract: An archetype problem in extremal combinatorics is to study the structure of subgraphs appearing in different classes of (hyper)graphs. We will focus on such embedding problems in “random like” graphs. In practice, we will mention ramsey-turan problems and related results. 
   speakers: <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)
@@ -14,7 +14,7 @@
 
 - title: Partition of graphs with high minimum degree
   year: 2022
-  pubdate: 2022-11-3
+  pubdate: 2022-10-13
   date: Thursday (Oct 13, 2022), 3-4 pm
   abstract: In 2003, Kuhn and Osthus showed that for every number $k$, every graph with minimum degree at least $l(k)=3\times 2^{11}\times k^2$ can be partition into none-empty sets $S$ and $T$, such that both $G[S]$ and $G[T]$ has minimum degree at least $k$, and each vertex of $S$ has at least $k$ neighbors in $T$.  We improve this result by showing that it is true for $l(k)=100k$ when $k$ is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China. 
   speakers: <a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)
