@@ -37,7 +37,7 @@ permalink: /seminar/
  <p><font size="5" color="green">{{ publi.date }}: {{ publi.speakers }}</font></p>
   <pubtit><font size="4">{{ publi.title }}</font></pubtit>
 <p><em><strong>Abstract: </strong></em>{{ publi.abstract }}</p>
-  <p><strong>{{ publi.meeting.platform }} ID:&nbsp;</strong>{{ publi.meeting.room }}<br><strong>Passcode:&nbsp;</strong>{{ publi.meeting.password }}</p>
+  <p><strong>{{ publi.meeting.platform }}:&nbsp;</strong>{{ publi.meeting.room }}<br>{% if publi.meeting.password %}<strong>Passcode:&nbsp;</strong>{{ publi.meeting.password }}{% endif %}</p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
 

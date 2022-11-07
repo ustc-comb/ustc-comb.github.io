@@ -7,6 +7,15 @@
 		<atom:link href="https://ustc-comb.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+			   <title>Improved Decoding of Expander Codes | Thursday (Nov 10, 2022)</title>
+			   <pubDate>Sat, 05 Nov 2022 00:00:00 +0800</pubDate>
+			   <description><![CDATA[Abstract: We study the classical expander codes, introduced by Sipser and Spielman. Given any constants $0<\alpha$, $\varepsilon<\frac{1}{2}$, and an arbitrary bipartite graph with $N$ vertices on the left, $M < N$ vertices on the right, and left degree $D$ such that any left subset $S$ of size at most $\alpha N$ has at least $(1−\varepsilon)|S|D$ neighbors, we show that the corresponding linear code given by parity checks on the right has distance at least roughly $\frac{\alpha N}{2\varepsilon}$. This is strictly better than the best known previous result of $2(1−\varepsilon)\alpha N$ whenever $\varepsilon<\frac{1}{2}$, and improves the previous result significantly when $\varepsilon$ is small. Furthermore, we show that this distance is tight in general, thus providing a complete characterization of the distance of general expander codes. <br />&nbsp;<br />Next, we provide several efficient decoding algorithms, which vastly improve previous results in terms of the fraction of errors corrected, whenever $\varepsilon<\frac{1}{4}$. Finally, we also give a bound on the list-decoding radius of general expander codes, which beats the classical Johnson bound in certain situations (e.g., when the graph is almost regular and the code has a high rate). <br />&nbsp;<br />Our techniques exploit novel combinatorial properties of bipartite expander graphs. In particular, we establish a new size-expansion tradeoff, which may be of independent interests.<p><strong>Place ID:&nbsp;</strong>TBA</p><p><strong>Passcode:&nbsp;</strong></p><p><sub><i><a href="http://staff.ustc.edu.cn/~xuechen1989/">Xue Chen</a> (University of Science and Technology of China)</i></sub></p>
+]]></description>
+			   <link>https://ustc-comb.github.io/seminar/</link>
+			   <guid isPermaLink="false">Improved Decoding of Expander Codes</guid>
+			</item>
+		
+			<item>
 			   <title>Embeddings in “random like” graphs | Thursday (Oct 27, 2022), 3-4 pm</title>
 			   <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
 			   <description><![CDATA[Abstract: An archetype problem in extremal combinatorics is to study the structure of subgraphs appearing in different classes of (hyper)graphs. We will focus on such embedding problems in “random like” graphs. In practice, we will mention ramsey-turan problems and related results.<p><strong>Tencent Meeting ID:&nbsp;</strong>99548146105</p><p><strong>Passcode:&nbsp;</strong>1958</p><p><sub><i><a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)</i></sub></p>
@@ -17,20 +26,11 @@
 		
 			<item>
 			   <title>Partition of graphs with high minimum degree | Thursday (Oct 13, 2022), 3-4 pm</title>
-			   <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+			   <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
 			   <description><![CDATA[Abstract: In 2003, Kuhn and Osthus showed that for every number $k$, every graph with minimum degree at least $l(k)=3\times 2^{11}\times k^2$ can be partition into none-empty sets $S$ and $T$, such that both $G[S]$ and $G[T]$ has minimum degree at least $k$, and each vertex of $S$ has at least $k$ neighbors in $T$.  We improve this result by showing that it is true for $l(k)=100k$ when $k$ is sufficiently large. This is joint work with Jie Ma from University of Science and Technology of China.<p><strong>Tencent Meeting ID:&nbsp;</strong>561992652</p><p><strong>Passcode:&nbsp;</strong>1013</p><p><sub><i><a href="https://scms.fudan.edu.cn/info/2672/4987.htm">Hehui Wu</a> (Fudan University)</i></sub></p>
 ]]></description>
 			   <link>https://ustc-comb.github.io/seminar/</link>
 			   <guid isPermaLink="false">Partition of graphs with high minimum degree</guid>
-			</item>
-		
-			<item>
-			   <title>Perfect Matchings in hypergraphs | Thursday (Sep 29, 2022), 3-4 pm</title>
-			   <pubDate>Wed, 28 Sep 2022 00:00:00 +0800</pubDate>
-			   <description><![CDATA[Abstract: Matchings are fundamental objects in the study of graph theory. Unlike in graphs, finding maximum matchings in general hypergraphs is NP-hard -- its decision problem is actually one of the Karp’s 21 NP-complete problems in 1972. Here we shall introduce some recent developments on perfect matchings in hypergraphs from both the extremal and the computational aspects in the past decade.<p><strong>Tencent Meeting ID:&nbsp;</strong>886562915</p><p><strong>Passcode:&nbsp;</strong>0929</p><p><sub><i><a href="https://jiehan773.github.io/">Jie Han</a> (Beijing Institute of Technology)</i></sub></p>
-]]></description>
-			   <link>https://ustc-comb.github.io/seminar/</link>
-			   <guid isPermaLink="false">Perfect Matchings in hypergraphs</guid>
 			</item>
 		
 	</channel>

@@ -1,10 +1,22 @@
-I"Y	
+I"t
 <h1 id="talks-in-2022">Talks in 2022</h1>
 <div>
 
   <ul id="2022">
 
        
+       
+<li>
+<font>Thursday (Nov 10, 2022), 3-4 pm: <a href="http://staff.ustc.edu.cn/~xuechen1989/">Xue Chen</a> (University of Science and Technology of China)</font><br />
+<strong>Improved Decoding of Expander Codes</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+We study the classical expander codes, introduced by Sipser and Spielman. Given any constants $0&lt;\alpha$, $\varepsilon&lt;\frac{1}{2}$, and an arbitrary bipartite graph with $N$ vertices on the left, $M&lt;N$ vertices on the right, and left degree $D$ such that any left subset $S$ of size at most $\alpha N$ has at least $(1−\varepsilon)|S|D$ neighbors, we show that the corresponding linear code given by parity checks on the right has distance at least roughly $\frac{\alpha N}{2\varepsilon}$. This is strictly better than the best known previous result of $2(1−\varepsilon)\alpha N$ whenever $\varepsilon&lt;\frac{1}{2}$, and improves the previous result significantly when $\varepsilon$ is small. Furthermore, we show that this distance is tight in general, thus providing a complete characterization of the distance of general expander codes. Next, we provide several efficient decoding algorithms, which vastly improve previous results in terms of the fraction of errors corrected, whenever $\varepsilon&lt;\frac{1}{4}$. Finally, we also give a bound on the list-decoding radius of general expander codes, which beats the classical Johnson bound in certain situations (e.g., when the graph is almost regular and the code has a high rate). <br />&nbsp;<br />Our techniques exploit novel combinatorial properties of bipartite expander graphs. In particular, we establish a new size-expansion tradeoff, which may be of independent interests.
+</details>
+<hr />
+</li>
+      
+      
        
 <li>
 <font>Thursday (Oct 27, 2022), 3-4 pm: <a href="https://faculty.sdu.edu.cn/wangguanghui1/zh_CN/index/565061/list/index.htm">Guanghui Wang</a> (Shandong University)</font><br />
