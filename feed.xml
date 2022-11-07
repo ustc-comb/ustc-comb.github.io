@@ -9,7 +9,14 @@ layout: none
 		<description>Talks of USTC Combinatorics Seminar</description>
 		<link>https://ustc-comb.github.io/seminar/</link>
 		<atom:link href="https://ustc-comb.github.io/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.data.seminar limit:3 %}
+		{% assign postsBytitle =
+    site.data.seminar | group_by_exp:"seminar","seminar.title" %}
+{% for item in postsBytitle %}
+{% if item.name == "TBA" %}
+{% assign tba = item.items %}
+{% endif %}
+{% endfor %}
+		{% for post in site.data.seminar offset:tba.size limit:10 %}
 			<item>
 			   <title>{{ post.title }} | {{ post.date }}</title>
 			   <pubDate>{{ post.pubdate | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>

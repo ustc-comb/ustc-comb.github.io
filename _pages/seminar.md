@@ -12,12 +12,18 @@ permalink: /seminar/
 <a href="{{ site.url }}{{ site.baseurl }}/feed.xml" style="float: right;"><img style="box-shadow: none; margin-top: 22px;" width="40px" src="{{ site.url }}{{ site.baseurl }}/images/rss.png"></a>
 
 ## Upcoming talks
+{% assign postsBytitle = site.data.seminar | group_by_exp:"seminar","seminar.title" %}
+{% for item in postsBytitle %}
+{% if item.name == "TBA" %}
+{% assign tba = item.items %}
+{% endif %}
+{% endfor %}
 
-{% if site.data.ForthcomingTalks %}
+{% if tba %}
 <div class="well">
 <ul style="margin-bottom: 0px;">
-{% for ftalk in site.data.ForthcomingTalks %}
-<li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
+{% for ftalk in tba %}
+<li class="company" style="list-style-type: circle;">{{ ftalk.date }}, {{ ftalk.speakers }}. {{ ftalk.title }}.</li>
 {% endfor %}
 </ul>
 </div>
@@ -27,7 +33,7 @@ permalink: /seminar/
 {% for publi in site.data.seminar %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
+{% if publi.highlight == 1 and publi.title != "TBA" %}
 
 {% if even_odd == 0 %}
 <div class="row">

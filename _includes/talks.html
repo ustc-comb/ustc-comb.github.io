@@ -1,18 +1,26 @@
 
 <div class="well">
-{% if site.data.ForthcomingTalks %}
+{% assign postsBytitle =
+    site.data.seminar | group_by_exp:"seminar","seminar.title" %}
+{% for item in postsBytitle %}
+{% if item.name == "TBA" %}
+{% assign tba = item.items %}
+{% endif %}
+{% endfor %}
+
+{% if tba %}
 <h4>Upcoming Talks</h4>
 
 <ul>
-{% for ftalk in site.data.ForthcomingTalks %}
-<li class="company" style="list-style-type: circle;">{{ ftalk.info }}</li>
+{% for ftalk in tba %}
+<li class="company" style="list-style-type: circle;">{{ ftalk.date }}, {{ ftalk.speakers }}. {{ ftalk.title }}.</li>
 {% endfor %}
 </ul>
 {% endif %}
 
 <h4>Talks</h4>
 
-{% for talk in site.data.seminar limit:2 %}
+{% for talk in site.data.seminar offset:tba.size limit:2 %}
 <font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}{% if talk.videolink %} <a href="{{ talk.videolink }}">video</a>{% endif %}{% if talk.slidelink %} <a href="{{ talk.slidelink }}">slides</a>{% endif %}</strong><br /><details>
 <summary><font><u>Abstract(Click to expand)</u></font></summary>
 {{ talk.abstract }}
