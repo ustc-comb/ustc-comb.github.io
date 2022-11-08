@@ -15,12 +15,12 @@
 - title: Improved Decoding of Expander Codes
   year: 2022
   pubdate: 2022-11-7
-  date: Thursday (Nov 10, 2022)
+  date: Thursday (Nov 10, 2022), 3-4 pm (offline talk)
   abstract: We study the classical expander codes, introduced by Sipser and Spielman. Given any constants $0<\alpha$, $\varepsilon<\frac{1}{2}$, and an arbitrary bipartite graph with $N$ vertices on the left, $M < N$ vertices on the right, and left degree $D$ such that any left subset $S$ of size at most $\alpha N$ has at least $(1−\varepsilon)|S|D$ neighbors, we show that the corresponding linear code given by parity checks on the right has distance at least roughly $\frac{\alpha N}{2\varepsilon}$. This is strictly better than the best known previous result of $2(1−\varepsilon)\alpha N$ whenever $\varepsilon<\frac{1}{2}$, and improves the previous result significantly when $\varepsilon$ is small. Furthermore, we show that this distance is tight in general, thus providing a complete characterization of the distance of general expander codes. <br />&nbsp;<br />Next, we provide several efficient decoding algorithms, which vastly improve previous results in terms of the fraction of errors corrected, whenever $\varepsilon<\frac{1}{4}$. Finally, we also give a bound on the list-decoding radius of general expander codes, which beats the classical Johnson bound in certain situations (e.g., when the graph is almost regular and the code has a high rate). <br />&nbsp;<br />Our techniques exploit novel combinatorial properties of bipartite expander graphs. In particular, we establish a new size-expansion tradeoff, which may be of independent interests.
   speakers: <a href="http://staff.ustc.edu.cn/~xuechen1989/">Xue Chen</a> (University of Science and Technology of China)
   meeting:
     platform: Place
-    room: TBA
+    room: 5207, the 5th Teaching Building
     password: 
   videolink: 
   slidelink: 
