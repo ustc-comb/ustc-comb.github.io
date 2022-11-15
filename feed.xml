@@ -17,6 +17,7 @@ layout: none
 {% endif %}
 {% endfor %}
 		{% for post in site.data.seminar offset:tba.size limit:10 %}
+		{% if post.meeting.room %}
 			<item>
 			   <title>{{ post.title }} | {{ post.date }}</title>
 			   <pubDate>{{ post.pubdate | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -25,6 +26,7 @@ layout: none
 			   <link>https://ustc-comb.github.io/seminar/</link>
 			   <guid isPermaLink="false">{{ post.title }}</guid>
 			</item>
+		{% endif %}
 		{% endfor %}
 	</channel>
 </rss>
