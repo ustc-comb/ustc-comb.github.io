@@ -25,5 +25,5 @@ The position comes with excellent research conditions and a starting salary of n
 
 <b> We only accept online applications through mathjobs.org:</b> <a href="https://www.mathjobs.org/jobs/list/21349">https://www.mathjobs.org/jobs/list/21349</a>.
 
-If you have questions concerning this position, please contact Jie Ma (jiema@ustc.edu.cn) or Tuan Tran (trantuan@ustc.edu.cn).
+If you have questions concerning this position, please contact Jie Ma (<jiema@ustc.edu.cn>) or Tuan Tran (<trantuan@ustc.edu.cn>).
 
