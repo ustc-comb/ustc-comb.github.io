@@ -24,7 +24,7 @@
 <font size="4" color="green">{{ talk.date }}: {{ talk.speakers }}</font><br><strong>{{ talk.title }}{% if talk.videolink %} <a href="{{ talk.videolink }}">video</a>{% endif %}{% if talk.slidelink %} <a href="{{ talk.slidelink }}">slides</a>{% endif %}</strong><br /><details>
 <summary><font><u>Abstract(Click to expand)</u></font></summary>
 {{ talk.abstract }}
-</details><strong>{{ talk.meeting.platform }}:&nbsp;</strong>{{ talk.meeting.room }}<br>{% if talk.meeting.password %}<strong>Passcode:&nbsp;</strong>{{ talk.meeting.password }}<br>{% endif %}{% if talk.news2 %}{{ talk.news2 }}{% endif %}<hr />
+</details>{% if talk.meeting.room %}<strong>{{ talk.meeting.platform }}:&nbsp;</strong>{{ talk.meeting.room }}<br>{% endif %}{% if talk.meeting.password %}<strong>Passcode:&nbsp;</strong>{{ talk.meeting.password }}<br>{% endif %}{% if talk.news2 %}{{ talk.news2 }}{% endif %}<hr />
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/seminar">... see all Talks</a></h4>
