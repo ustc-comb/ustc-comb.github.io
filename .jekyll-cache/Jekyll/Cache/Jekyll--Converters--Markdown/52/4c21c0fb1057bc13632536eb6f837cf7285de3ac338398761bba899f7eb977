@@ -1,4 +1,5 @@
-I"¦
+I"
+
 <h1 id="talks-in-2022">Talks in 2022</h1>
 <div>
 
@@ -6,6 +7,28 @@
 
        
        
+<li>
+<font>Thursday (Dec 8, 2022), 4-5 pm: <a href="http://gr.xjtu.edu.cn/web/luhongliang">Hongliang Lu</a> (Xi'an Jiaotong University)</font><br />
+<strong>Sublinear-Time Algorithms for Max Cut and Unique Label Cover on Expanders</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+We give the first sublinear-time algorithm for the Max Cut problem with non-trivial approximation guarantee for a natural class of graphs, i.e., expander graphs. Given query access to the adjacency list of such a graph with $m$ edges and conductance at least $\phi$, our algorithm runs in $\tilde{O}\left(\frac{m^{1/2+O(\varepsilon/\phi^2)}}{\phi^2}\right)$ time and provides a $(1/2+\varepsilon)$-approximation to $\MC(G)$, the maximum fraction of the edges cut by a bipartition of $G$. We also give a sublinear-time algorithm for the Unique Label Cover (also known as Unique Games) problem on expanders in the bounded-degree model. Previously, it was only known that the latter problem can be solved in polynomial time by using semidefinite programming.  In contrast, our algorithms and analysis are based on spectral, random walk, and property testing techniques.
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Thursday (Nov 24, 2022), 3-4 pm: <a href="http://gr.xjtu.edu.cn/web/luhongliang">Hongliang Lu</a> (Xi'an Jiaotong University)</font><br />
+<strong>Anti-Ramsey number of matchings in $3$-uniform hypergraphs</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+Let $n,s,$ and $k$ be positive integers such that $k\geq 3$, $s\geq 3$ and $n\geq ks$. An $s$-matching $M_s$ in a $k$-uniform hypergraph is a set of $s$ pairwise disjoint edges. The anti-Ramsey number ${\rm ar}(n,k,M_s)$ of an $s$-matching  is the smallest integer $c$ such that each edge-coloring of the $n$-vertex $k$-uniform complete hypergraph with exactly $c$ colors contains an $s$-matching  with distinct colors.  The value of ${\rm ar}(n,k,M_s)$ was conjectured by Ozkahya and Young (Anti-Ramsey number of matchings in hypergraphs, <em>Discrete Math.</em>, <b>313</b> (2013), 2359--2364) for all  $n \geq sk$ and $k \geq 3$. Frankl and Kupavskii (Two problems on matchings in set families - in the footsteps of Erdos and Kleitman, <em>J. Combin. Theory ser. B</em>, <b>138</b> (2019), 286--313) verified this conjecture for all $n \geq sk+(s-1)(k-1)$ and $k \geq 3$. We aim to determine the value of ${\rm ar}(n,3,M_s)$ for $3s \leq n &lt; 5s-2$ in this paper. Namely, we prove that if $3s &lt; n &lt; 5s-2$ and $n$ is large enough, then ${\rm ar}(n,3,M_s)={\rm ex}(n,3,M_{s-1})+2$. Here ${\rm ex}(n,3,M_{s-1})$ is the Turan number of an $(s-1)$-matching. Thus this result confirms the conjecture of Ozkahya and Young for $k=3$, $3s &lt; n &lt; 5s-2$ and sufficiently large $n$. For $n=ks$ and $k\geq 3$, we present a new construction for the lower bound of ${\rm ar}(n,k,M_{s})$ which shows the conjecture by Ozkahya and Young is not true. In particular, for $n=3s$, we prove that ${\rm ar}(n,3,M_s)={\rm ex}(n,3,M_{s-1})+5$ for sufficiently large $n$.
+</details>
+<hr />
+</li>
+      
       
        
 <li>
