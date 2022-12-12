@@ -1,4 +1,4 @@
-I"4
+I">"
 <h1 id="talks-in-2022">Talks in 2022</h1>
 <div>
 
@@ -6,6 +6,28 @@
 
        
        
+<li>
+<font>Thursday (Dec 15, 2022), 2-3 pm: <a href="https://math.ecnu.edu.cn/~chlu/intro.html?language=1&amp;id=116">Changhong Lu</a> (East China Normal University)</font><br />
+<strong>A bridge between the coin-weighing problem and the double resolving problem of graphs</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+硬币称重问题（Coin-weighing problems）是个经典的组合优化问题，其中一个经典形式为：给定$n$个硬币，假定真硬币的重量和假硬币的重量均已知，用弹簧称对硬币进行称重，用最少的称重次数将所有的假币找出来。图的$2$-分辨集（double resolving problem）是Caceres 等人在2007年为了研究图的分辨集问题（resolving set problem）提出的一个工具性的新概念。最近，我们证明了超方体的$2$-分辨集问题与硬币称重问题的等价关系，我们利用硬币称重问题的Lindström方法给出计算超方体和折叠超方体$2$-分辨集问题的快速算法，给出了一些新结果，包括解决公开问题；反过来，$2$-分辨集问题的图论结果也给硬币称重问题带来了一些新进展，比如$14$,$16$,$18$个硬币称重问题的新上界。
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Thursday (Dec 8, 2022), 3:30-4:30 pm: <a href="http://staff.ustc.edu.cn/~ppeng/">Pan Peng</a> (University of Science and Technology of China)</font><br />
+<strong>Sublinear-Time Algorithms for Max Cut and Unique Label Cover on Expanders</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+We give the first sublinear-time algorithm for the Max Cut problem with non-trivial approximation guarantee for a natural class of graphs, i.e., expander graphs. Given query access to the adjacency list of such a graph with $m$ edges and conductance at least $\phi$, our algorithm runs in $\tilde{O}\left(\frac{m^{1/2+O(\varepsilon/\phi^2)}}{\phi^2}\right)$ time and provides a $(1/2+\varepsilon)$-approximation to ${\rm MC}(G)$, the maximum fraction of the edges cut by a bipartition of $G$. We also give a sublinear-time algorithm for the Unique Label Cover (also known as Unique Games) problem on expanders in the bounded-degree model. Previously, it was only known that the latter problem can be solved in polynomial time by using semidefinite programming.  In contrast, our algorithms and analysis are based on spectral, random walk, and property testing techniques.
+</details>
+<hr />
+</li>
+      
       
        
 <li>
