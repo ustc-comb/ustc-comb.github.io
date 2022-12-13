@@ -1,6 +1,6 @@
 - title: Arboricity and Partition
   year: 2022
-  pubdate: 2022-12-13
+  pubdate: 2022-12-12
   date: Friday (Dec 16, 2022), 10:30-11:20 pm
   abstract: For a positive integer $n$, the linear $n$-arboricity of a graph $G$ is the least number $k$ such that $G$ can be edge-partitioned into $k$ forests, whose component trees are paths of length at most $n$. When $n$ is infinite, the corresponding parameter is called the linear arboricity of $G$. In this talk, we give a survey for the research progress about the arboricity, linear arboricity, linear $2$-arboricity and other edge-partition problems of graphs. Some unsolved problems will be provided.
   speakers: <a href="http://mypage.zjnu.edu.cn/WWF/zh_CN/index.htm">Weifan Wang</a> (Zhejiang Normal University)
@@ -14,7 +14,7 @@
 
 - title: A bridge between the coin-weighing problem and the double resolving problem of graphs
   year: 2022
-  pubdate: 2022-12-13
+  pubdate: 2022-12-12
   date: Thursday (Dec 15, 2022), 2-3 pm
   abstract: 硬币称重问题（Coin-weighing problems）是个经典的组合优化问题，其中一个经典形式为：给定$n$个硬币，假定真硬币的重量和假硬币的重量均已知，用弹簧称对硬币进行称重，用最少的称重次数将所有的假币找出来。图的$2$-分辨集（double resolving problem）是Caceres 等人在2007年为了研究图的分辨集问题（resolving set problem）提出的一个工具性的新概念。最近，我们证明了超方体的$2$-分辨集问题与硬币称重问题的等价关系，我们利用硬币称重问题的Lindström方法给出计算超方体和折叠超方体$2$-分辨集问题的快速算法，给出了一些新结果，包括解决公开问题；反过来，$2$-分辨集问题的图论结果也给硬币称重问题带来了一些新进展，比如$14$,$16$,$18$个硬币称重问题的新上界。
   speakers: <a href="https://math.ecnu.edu.cn/~chlu/intro.html?language=1&id=116">Changhong Lu</a> (East China Normal University)
