@@ -10,7 +10,7 @@
     password: 1958
   videolink: 
   slidelink: 
-  highlight: 1
+  highlight: 0
 
 - title: A bridge between the coin-weighing problem and the double resolving problem of graphs
   year: 2022
@@ -24,7 +24,7 @@
     password: 1958
   videolink: 
   slidelink: 
-  highlight: 1
+  highlight: 0
 
 - title: Sublinear-Time Algorithms for Max Cut and Unique Label Cover on Expanders
   year: 2022
