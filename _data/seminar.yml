@@ -1,7 +1,21 @@
+- title: A new result similar to the Graham-Pollak theorem
+  year: 2023
+  pubdate: 2023-03-23
+  date: Friday (Apr 7, 2023), 4:30-5:20 pm
+  abstract: In 1971, R.L. Graham and H.O. Pollak obtained a beautiful result on determinants of distance matrices for trees. In this talk, we introduce the speaker's recent work which is similar to the Graham-Pollak theorem. Namely, we will prove the following result: Let $n>1$ be an integer, and let $T$ be any tree with $n+1$ vertices $v_1,\ldots,v_{n+1}$, where $v_1$ and $v_{n+1}$ are two leaves of $T$. Then $$\det[q^{d(v_{j+1},v_k)}-t]_{1\le j,k\le n}=t(q-1)^n(q+1)^{n-2},$$ where $d(v_{j+1},v_k)$ is the distance between $v_{j+1}$ and $v_k$ in the tree $T$.
+  speakers: <a href="http://maths.nju.edu.cn/~zwsun/">Zhi-Wei Sun</a> (Nanjing University)
+  meeting:
+    platform: 
+    room: 
+    password: 
+  videolink: 
+  slidelink: 
+  highlight: 1
+
 - title: Arboricity and Partition
   year: 2022
   pubdate: 2022-12-12
-  date: Friday (Dec 16, 2022), 10:30-11:20 pm
+  date: Friday (Dec 16, 2022), 10:30-11:20 am
   abstract: For a positive integer $n$, the linear $n$-arboricity of a graph $G$ is the least number $k$ such that $G$ can be edge-partitioned into $k$ forests, whose component trees are paths of length at most $n$. When $n$ is infinite, the corresponding parameter is called the linear arboricity of $G$. In this talk, we give a survey for the research progress about the arboricity, linear arboricity, linear $2$-arboricity and other edge-partition problems of graphs. Some unsolved problems will be provided.
   speakers: <a href="http://mypage.zjnu.edu.cn/WWF/zh_CN/index.htm">Weifan Wang</a> (Zhejiang Normal University)
   meeting:
