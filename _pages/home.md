@@ -17,8 +17,8 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-          <a href="#">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpg" alt="Slide 1" />
+          <a href="{{ site.url }}{{ site.baseurl }}/workshops/">
+            <img src="https://s1.ax1x.com/2023/05/06/p9aty1e.jpg" alt="Slide 1" />
           </a>
         </div>
         <div class="item">
