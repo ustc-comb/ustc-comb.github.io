@@ -18,7 +18,7 @@ permalink: /
     <div class="carousel-inner" markdown="0">
         <div class="item active">
           <a href="{{ site.url }}{{ site.baseurl }}/workshops/">
-            <img src="https://s1.ax1x.com/2023/05/06/p9aty1e.jpg" alt="Slide 1" />
+            <img src="https://s1.ax1x.com/2023/05/22/p9odWTO.jpg" alt="Slide 1" />
           </a>
         </div>
         <div class="item">
