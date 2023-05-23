@@ -1,6 +1,6 @@
 - title: Network Classes and Their Mathematical Properties
   year: 2023
-  pubdate: 2023-05-28
+  pubdate: 2023-05-23
   date: Tuesday (May 30, 2023), 4-5 pm
   abstract: Phylogenetic networks over a set of taxa are rooted, directed acyclic graphs in which leaves represent the taxa, the non-leaf indegree-1 nodes represent speciation events and the nodes with multiple incoming edges represent reticulation events when they are used to model the evolutionary history of a set of genomes. In the study of algorithmic issues of phylogenetic networks, different classes of phylogenetic networks have been investigated. The popular network classes include galled network, tree-child network, tree-based network, etc. I will discuss our recent work on how to count tree-child networks and its subclasses. 
   speakers: <a href="https://discovery.nus.edu.sg/822-louxin-zhang">Luoxin Zhang</a> (National University of Singapore)
