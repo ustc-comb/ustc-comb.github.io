@@ -1,3 +1,17 @@
+- title: Splitting a special class of circulant graphs
+  year: 2023
+  pubdate: 2023-06-20
+  date: Tuesday (Jun 27, 2023), 10:30-11:30 pm
+  abstract: Given a graph $G = (V,E)$ where each edge has effective resistance (treating $G$ as an electrical network where each edge is a resistor) at most $\alpha > 0$, we want to partition the edges of $G$ into $E = E_1 \cup E_2$ so that both graphs $G_1 = (V,E_1)$ and $G_2 = (V,E_2)$ with doubled edge weights are $(1 +/- O(\sqrt{\alpha}))$ approximation to $G$. We say a graph $H$ is a $(1+/-\epsilon)$ approximation to another graph $G$ if the Laplacian matrix of $H$, denoted by $L_H$, and the Laplacian matrix of $G$, denoted by $L_G$, satisfies $(1-\epsilon) L_G \preceq L_H \preceq (1+\epsilon) L_G$ (the Loewner order). The proof of the Kadison-Singer problem by Marcus, Spielman, and Srivastava (Annals of Mathematics, 2015) implies the above edge partition exists, but no polynomial-time algorithms are known. We will describe a polynomial-time algorithm for a special class of circulant graphs.
+  speakers: <a href="https://sites.google.com/site/pengzhang27182/">Peng Zhang</a> (Rutgers University)
+  meeting:
+    platform: Place
+    room: 2205, the 2nd Teaching Building
+    password: 
+  videolink: 
+  slidelink: 
+  highlight: 1
+
 - title: Network Classes and Their Mathematical Properties
   year: 2023
   pubdate: 2023-05-23
@@ -10,7 +24,7 @@
     password: 
   videolink: 
   slidelink: 
-  highlight: 1
+  highlight: 0
 
 - title: A new result similar to the Graham-Pollak theorem
   year: 2023
