@@ -1,0 +1,60 @@
+I"d
+<h1 id="talks-in-2023">Talks in 2023</h1>
+<div>
+
+  <ul id="2023">
+
+       
+       
+<li>
+<font>Tuesday (Jun 27, 2023), 10:30-11:30 pm: <a href="https://sites.google.com/site/pengzhang27182/">Peng Zhang</a> (Rutgers University)</font><br />
+<strong>Splitting a special class of circulant graphs</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+Given a graph $G = (V,E)$ where each edge has effective resistance (treating $G$ as an electrical network where each edge is a resistor) at most $\alpha &gt; 0$, we want to partition the edges of $G$ into $E = E_1 \cup E_2$ so that both graphs $G_1 = (V,E_1)$ and $G_2 = (V,E_2)$ with doubled edge weights are $(1 +/- O(\sqrt{\alpha}))$ approximation to $G$. We say a graph $H$ is a $(1+/-\epsilon)$ approximation to another graph $G$ if the Laplacian matrix of $H$, denoted by $L_H$, and the Laplacian matrix of $G$, denoted by $L_G$, satisfies $(1-\epsilon) L_G \preceq L_H \preceq (1+\epsilon) L_G$ (the Loewner order). The proof of the Kadison-Singer problem by Marcus, Spielman, and Srivastava (Annals of Mathematics, 2015) implies the above edge partition exists, but no polynomial-time algorithms are known. We will describe a polynomial-time algorithm for a special class of circulant graphs.
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Tuesday (May 30, 2023), 4-5 pm: <a href="https://discovery.nus.edu.sg/822-louxin-zhang">Luoxin Zhang</a> (National University of Singapore)</font><br />
+<strong>Network Classes and Their Mathematical Properties</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+Phylogenetic networks over a set of taxa are rooted, directed acyclic graphs in which leaves represent the taxa, the non-leaf indegree-1 nodes represent speciation events and the nodes with multiple incoming edges represent reticulation events when they are used to model the evolutionary history of a set of genomes. In the study of algorithmic issues of phylogenetic networks, different classes of phylogenetic networks have been investigated. The popular network classes include galled network, tree-child network, tree-based network, etc. I will discuss our recent work on how to count tree-child networks and its subclasses.
+</details>
+<hr />
+</li>
+      
+      
+       
+<li>
+<font>Friday (Apr 7, 2023), 4:30-5:30 pm: <a href="http://maths.nju.edu.cn/~zwsun/">Zhi-Wei Sun</a> (Nanjing University)</font><br />
+<strong>A new result similar to the Graham-Pollak theorem</strong> <br />
+  <details>
+<summary><font color="#6d9eeb"><u>Abstract(Click to expand)</u></font></summary>
+In 1971, R.L. Graham and H.O. Pollak obtained a beautiful result on determinants of distance matrices for trees. In this talk, we introduce the speaker's recent work which is similar to the Graham-Pollak theorem. Namely, we will prove the following result:Let $n &gt; 1$ be an integer, and let $T$ be any tree with $n+1$ vertices $v_1,\ldots,v_{n+1}$, where $v_1$ and $v_{n+1}$ are two leaves of $T$. Then $$\det[q^{d(v_{j+1},v_k)}-t]_{1\le j,k\le n}=t(q-1)^n(q+1)^{n-2},$$ where $d(v_{j+1},v_k)$ is the distance between $v_{j+1}$ and $v_k$ in the tree $T$.
+</details>
+<hr />
+</li>
+      
+      
+       
+
+</ul>
+
+</div>
+
+<div>
+  <ul>
+<font size="4">Talks from:&nbsp;&nbsp;
+
+<a href="http://localhost:4000/sort/2022.html">2022</a>&nbsp;&nbsp;
+
+</font>
+</ul>
+</div>
+
+:ET
