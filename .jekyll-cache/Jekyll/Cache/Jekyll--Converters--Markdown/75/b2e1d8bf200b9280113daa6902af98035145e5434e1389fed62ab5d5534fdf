@@ -1,4 +1,4 @@
-I"q<h1 id="graph-theory-fall-2023">Graph Theory (Fall 2023)</h1>
+I"�<h1 id="graph-theory-fall-2023">Graph Theory (Fall 2023)</h1>
 
 <h2 id="instructor">Instructor</h2>
 
@@ -25,33 +25,15 @@
   <li>Euler Tours</li>
   <li>Hamilton Cycles</li>
   <li>Trees</li>
-  <li>
-    <p>Spaces of Graphs</p>
-  </li>
-  <li>
-    <p>Planar Graphs</p>
-  </li>
-  <li>
-    <p>Networks and Connectivity</p>
-  </li>
-  <li>
-    <p>Matching and Independence Number</p>
-  </li>
-  <li>
-    <p>Colouring</p>
-  </li>
-  <li>
-    <p>Graphs and Groups</p>
-  </li>
-  <li>
-    <p>Turan Theorem</p>
-  </li>
-  <li>
-    <p>Ramsey Theorem</p>
-  </li>
-  <li>
-    <p>Point-Set Theory</p>
-  </li>
+  <li>Spaces of Graphs</li>
+  <li>Planar Graphs</li>
+  <li>Networks and Connectivity</li>
+  <li>Matching and Independence Number</li>
+  <li>Colouring</li>
+  <li>Graphs and Groups</li>
+  <li>Turan Theorem</li>
+  <li>Ramsey Theorem</li>
+  <li>Point-Set Theory</li>
   <li>Hypergraphs</li>
 </ul>
 
@@ -62,12 +44,24 @@
 <h2 id="exercises">Exercises</h2>
 
 <ul>
-  <li><a href="Example">Example</a></li>
+  <li>
+    <p><a href=""></a></p>
+  </li>
+  <li>
+    <p><a href=""></a></p>
+  </li>
 </ul>
 
 <h2 id="covered-material">Covered material</h2>
 
+<ul>
+  <li>Example</li>
+</ul>
+
 <h2 id="literature">Literature</h2>
+<ul>
+  <li>图论及其应用 第4版 徐俊明 中国科学技术大学出版社</li>
+</ul>
 
 <hr />
 
