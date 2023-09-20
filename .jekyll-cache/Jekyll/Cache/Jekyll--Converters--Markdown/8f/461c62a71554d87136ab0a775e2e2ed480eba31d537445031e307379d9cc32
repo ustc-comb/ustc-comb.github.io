@@ -1,0 +1,78 @@
+I"¼<h1 id="graph-theory-winter-2324">Graph Theory, Winter 23/24</h1>
+<div id="newsid" class="col-sm-4" style="float: right;">
+  <div class="well">
+
+    <h4>Exams</h4>
+    <ul>
+    <li>Midterm exam:</li>
+    <li>Final exam:</li>
+</ul>
+    <h4>Exercises</h4>
+
+    <ul>
+      <li><a href="https://rec.ustc.edu.cn/share/eb401690-55d9-11ee-8bda-95ac3da51fa3">Exercise Sheet 1</a></li>
+    </ul>
+
+    <h4>Exams</h4>
+    <ul>
+    <li>Midterm exam:</li>
+    <li>Final exam:</li>
+</ul>
+  </div>
+</div>
+<h2 id="instructor">Instructor</h2>
+
+<ul>
+  <li>
+    <p><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></p>
+  </li>
+  <li>
+    <p>Office: 1409, Management Building, East Campus</p>
+  </li>
+  <li>
+    <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
+  </li>
+</ul>
+
+<h2 id="time">Time</h2>
+<ul>
+  <li>Lectures: Monday 14:00-15:35 and Friday 15:55-17:30, in 5301.</li>
+</ul>
+
+<h2 id="topics-of-the-course">Topics of the course</h2>
+
+<ul>
+  <li>Basic notions</li>
+  <li>Trees</li>
+  <li>Connectivity</li>
+  <li>Eulerian and Hamiltonian cycles</li>
+  <li>Matchings</li>
+  <li>Planar graphs</li>
+  <li>Graph colourings</li>
+  <li>The matrix tree theorem</li>
+  <li>Kuratowskiâ€™s theorem</li>
+  <li>Ramsey theory</li>
+  <li>Extremal problems</li>
+</ul>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Basic linear algebra, calculus.</p>
+<h2 id="exams">Exams</h2>
+<ul>
+  <li>Midterm exam:</li>
+  <li>Final exam:</li>
+</ul>
+
+<h2 id="exercises">Exercises</h2>
+
+<ul>
+  <li><a href="https://rec.ustc.edu.cn/share/eb401690-55d9-11ee-8bda-95ac3da51fa3">Exercise Sheet 1</a></li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+<ul>
+  <li>Reinhard Diestel, Graph Theory</li>
+  <li>Douglas West, Introduction to Graph Theory</li>
+</ul>
+
+:ET

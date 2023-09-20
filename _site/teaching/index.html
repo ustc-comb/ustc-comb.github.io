@@ -43,7 +43,7 @@ MathJax = {
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: fixed;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -118,7 +118,7 @@ MathJax = {
 </div>
 
 
-    <div class="container-fluid">
+    <div class="container-fluid" style="min-height: calc(100vh - 121px);">
       <div class="row">
         <div id="gridid" class="col-sm-12">
   <h1 id="our-courses">Our Courses</h1>
@@ -127,7 +127,7 @@ MathJax = {
 
   <div class="col-sm-6 clearfix">
     <div class="well">
-      <p><font size="5" color="green"><a href="/teaching/GT2023">Graph Theory (Fall 2023)</a></font></p>
+      <p><font size="5" color="green"><a href="/teaching/GT2023">Graph Theory (Winter 23/24)</a></font></p>
       <p><strong>Instructor: </strong><font size="4"><a href="https://tuaentran.wixsite.com/homepage">TUAN TRAN</a></font></p>
       <p><strong>Time: </strong>Week 2~18, Monday 14:00-15:35 and Friday 15:55-17:30.</p>
       <p><strong>Place: </strong>5301, the 5th Teaching Building.</p>
@@ -147,23 +147,14 @@ MathJax = {
       </div>
     </div>
 
-    <div id="footer" class="panel" style="margin-bottom: 0px;">
-  <div class="panel-footer">
+    <div id="footer" class="panel" style="margin-bottom: 0px;position: sticky;bottom: 0;">
+  <div class="panel-footer" style="padding-top: 1px;">
 	<div class="container-fluid">
 	  <div class="row" style="display: flex;
-    justify-content: center;">
+    justify-content: center;height: 35px;">
 		<div class="col-sm-4" style="text-align: center;">
-
-		  <p>&copy 2023 USTC Combinatorics Group. <a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
-              
-
-
-		   <p>  </p><p>
-
-
+		  <p>&copy 2023 USTC Combinatorics Group. <br><a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
 		</div>
-		
-		
 	  </div>
 	</div>
   </div>

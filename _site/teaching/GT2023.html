@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Graph Theory 2023 - USTC Combinatorics Group</title>
+  <title>Graph Theory, Winter 23/24</title>
   <meta name="google-site-verification" content="t13caX7YislnVkHoTjyfGDUjomQKxgraKT12XiMfHzY" />
   <meta name="follow.it-verification-code" content="1ayy0Anw7dxLHt8aAlah"/>
-  <meta name="description" content="Graph Theory 2023.">
+  <meta name="description" content="Graph Theory, Winter 23/24">
   <link rel="stylesheet" href="http://localhost:4000/css/main.css">
   <link rel="canonical" href="http://localhost:4000/teaching/GT2023.html">
 <link rel="shortcut icon" type ="image/x-icon" href="http://localhost:4000/images/favicon.ico">
@@ -43,7 +43,7 @@ MathJax = {
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: fixed;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -118,99 +118,86 @@ MathJax = {
 </div>
 
 
-    <div class="container-fluid">
+    <div class="container-fluid" style="min-height: calc(100vh - 121px);">
       <div class="row">
         <div id="textid" class="col-sm-12">
-  <h1 id="graph-theory-fall-2023">Graph Theory (Fall 2023)</h1>
+  <h1 id="graph-theory-winter-2324">Graph Theory, Winter 23/24</h1>
 
-<h2 id="instructor">Instructor</h2>
+<div class="col-sm-7">
+  <h2 id="instructor">Instructor</h2>
 
-<ul>
-  <li>
-    <p><a href="https://tuaentran.wixsite.com/homepage">TUAN TRAN</a></p>
-  </li>
-  <li>
-    <p>Office: 1409, Building of Management Academy, East Campus of USTC. No. 96 Jinzhai Rd, Hefei, 230026, Anhui Province, P.R.China</p>
-  </li>
-  <li>
-    <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
-  </li>
+  <ul>
+    <li>
+      <p><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></p>
+    </li>
+    <li>
+      <p>Office: 1409, Management Building, East Campus</p>
+    </li>
+    <li>
+      <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
+    </li>
+  </ul>
+
+  <h2 id="time">Time</h2>
+  <ul>
+    <li>Lectures: Monday 14:00-15:35 and Friday 15:55-17:30, in 5301.</li>
+  </ul>
+
+  <h2 id="topics-of-the-course">Topics of the course</h2>
+
+  <ul>
+    <li>Basic notions</li>
+    <li>Trees</li>
+    <li>Connectivity</li>
+    <li>Eulerian and Hamiltonian cycles</li>
+    <li>Matchings</li>
+    <li>Planar graphs</li>
+    <li>Graph colourings</li>
+    <li>The matrix tree theorem</li>
+    <li>Kuratowski’s theorem</li>
+    <li>Ramsey theory</li>
+    <li>Extremal problems</li>
+  </ul>
+
+  <h2 id="prerequisites">Prerequisites</h2>
+  <p>Basic linear algebra, calculus.</p>
+
+</div>
+<div id="newsid" class="col-sm-5">
+  <div class="well">
+
+    <h3>Exams</h3>
+    <ul>
+    <li>Midterm exam:</li>
+    <li>Final exam:</li>
 </ul>
+    <h3>Exercises</h3>
 
-<h2 id="time">Time</h2>
-<ul>
-  <li>Lectures: Week 2~18, Monday 14:00-15:35 and Friday 15:55-17:30, in 5301.</li>
+    <ul>
+      <li><a href="https://rec.ustc.edu.cn/share/eb401690-55d9-11ee-8bda-95ac3da51fa3">Exercise Sheet 1</a></li>
+    </ul>
+
+    <h3>Literature</h3>
+    <ul>
+    <li>Reinhard Diestel, Graph Theory</li>
+    <li>Douglas West, Introduction to Graph Theory</li>
 </ul>
-
-<h2 id="topics-of-the-course">Topics of the course</h2>
-
-<ul>
-  <li>Euler Tours</li>
-  <li>Hamilton Cycles</li>
-  <li>Trees</li>
-  <li>Spaces of Graphs</li>
-  <li>Planar Graphs</li>
-  <li>Networks and Connectivity</li>
-  <li>Matching and Independence Number</li>
-  <li>Colouring</li>
-  <li>Graphs and Groups</li>
-  <li>Turan Theorem</li>
-  <li>Ramsey Theorem</li>
-  <li>Point-Set Theory</li>
-  <li>Hypergraphs</li>
-</ul>
-
-<h2 id="prerequisites">Prerequisites</h2>
-<p>Basic linear algebra, calculus.</p>
-<h2 id="final">Final</h2>
-
-<h2 id="exercises">Exercises</h2>
-
-<ul>
-  <li>
-    <p><a href="example1">Exercise Sheet 1</a></p>
-  </li>
-  <li>
-    <p><a href="example2">Exercise Sheet 2</a></p>
-  </li>
-</ul>
-
-<h2 id="covered-material">Covered material</h2>
-
-<ul>
-  <li>Example</li>
-</ul>
-
-<h2 id="literature">Literature</h2>
-<ul>
-  <li>图论及其应用 第4版 徐俊明 中国科学技术大学出版社</li>
-</ul>
-
-<hr />
-
+  </div>
+</div>
 
 </div>
 
       </div>
     </div>
 
-    <div id="footer" class="panel" style="margin-bottom: 0px;">
-  <div class="panel-footer">
+    <div id="footer" class="panel" style="margin-bottom: 0px;position: sticky;bottom: 0;">
+  <div class="panel-footer" style="padding-top: 1px;">
 	<div class="container-fluid">
 	  <div class="row" style="display: flex;
-    justify-content: center;">
+    justify-content: center;height: 35px;">
 		<div class="col-sm-4" style="text-align: center;">
-
-		  <p>&copy 2023 USTC Combinatorics Group. <a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
-              
-
-
-		   <p>  </p><p>
-
-
+		  <p>&copy 2023 USTC Combinatorics Group. <br><a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
 		</div>
-		
-		
 	  </div>
 	</div>
   </div>

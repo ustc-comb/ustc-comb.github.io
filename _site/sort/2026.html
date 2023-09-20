@@ -43,7 +43,7 @@ MathJax = {
 
 .dropdown-content {
     display: none;
-    position: absolute;
+    position: fixed;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -118,7 +118,7 @@ MathJax = {
 </div>
 
 
-    <div class="container-fluid">
+    <div class="container-fluid" style="min-height: calc(100vh - 121px);">
       <div class="row">
         
 <h1 id="talks-in-2026">Talks in 2026</h1>
@@ -140,23 +140,14 @@ MathJax = {
       </div>
     </div>
 
-    <div id="footer" class="panel" style="margin-bottom: 0px;">
-  <div class="panel-footer">
+    <div id="footer" class="panel" style="margin-bottom: 0px;position: sticky;bottom: 0;">
+  <div class="panel-footer" style="padding-top: 1px;">
 	<div class="container-fluid">
 	  <div class="row" style="display: flex;
-    justify-content: center;">
+    justify-content: center;height: 35px;">
 		<div class="col-sm-4" style="text-align: center;">
-
-		  <p>&copy 2023 USTC Combinatorics Group. <a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
-              
-
-
-		   <p>  </p><p>
-
-
+		  <p>&copy 2023 USTC Combinatorics Group. <br><a href="http://localhost:4000/feed.xml">Subscribe RSS</a></p>
 		</div>
-		
-		
 	  </div>
 	</div>
   </div>
