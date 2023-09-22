@@ -1,5 +1,5 @@
 ---
-title: "Teaching - USTC Combinatorics Group"
+title: "Teaching"
 layout: teaching
 excerpt: "Combinatorics Courses."
 sitemap: ture
