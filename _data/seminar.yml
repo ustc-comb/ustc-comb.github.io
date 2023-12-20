@@ -3,7 +3,7 @@
   pubdate: 2023-12-18
   date: Thursday (Dec 21, 2023), 3:00-4:00 pm
   abstract: Fujita and Magnant proved that if the minimum color degree of an edge-colored graph $(G,c)$ of order $n (>2)$ is at least $n/2$, then each pair of vertices in $(G,c)$ is connected by a properly-colored path. We show that for large $n$, the same minimum color degree condition implies rainbow connectivity of the edge-colored graph; that is, each pair of vertices in $(G,c)$ is connected by a path whose edges are distinctly colored. This is joint work with Andrzej Czygrinow.
-  speakers: <a href="https://search.asu.edu/profile/4226552">Xiaofan Yuan</a> (Arizona State University)
+  speakers: <a href="https://math.la.asu.edu/~xyuan/">Xiaofan Yuan</a> (Arizona State University)
   meeting:
     platform: Place
     room: 5206, the 5th Teaching Building
