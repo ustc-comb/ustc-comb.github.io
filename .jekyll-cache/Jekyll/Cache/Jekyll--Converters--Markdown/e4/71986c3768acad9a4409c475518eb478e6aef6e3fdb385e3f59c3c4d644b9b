@@ -1,0 +1,84 @@
+I"¸<h1 id="graph-theory-winter-2324">Graph Theory, Winter 23/24</h1>
+
+<div class="col-sm-7">
+  <h2 id="instructor">Instructor</h2>
+
+  <ul>
+    <li>
+      <p><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></p>
+    </li>
+    <li>
+      <p>Office: 1409, Management Building, East Campus</p>
+    </li>
+    <li>
+      <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
+    </li>
+  </ul>
+
+  <h2 id="time">Time</h2>
+
+  <p>Monday 14:00-15:35 and Friday 15:55-17:30, in 5301.</p>
+
+  <h2 id="topics-of-the-course">Topics of the course</h2>
+
+  <ul>
+    <li>Basic notions</li>
+    <li>Trees</li>
+    <li>Connectivity</li>
+    <li>Eulerian and Hamiltonian cycles</li>
+    <li>Matchings</li>
+    <li>Planar graphs</li>
+    <li>Graph colourings</li>
+    <li>The matrix tree theorem</li>
+    <li>Kuratowskiâ€™s theorem</li>
+    <li>Ramsey theory</li>
+    <li>Extremal problems</li>
+  </ul>
+
+  <h2 id="prerequisites">Prerequisites</h2>
+
+  <p>Basic linear algebra, calculus.</p>
+
+  <h2 id="requirements">Requirements</h2>
+
+  <p>Here you can read the <a href="https://rec.ustc.edu.cn/share/95ebf1b0-5939-11ee-9cda-5112ee8bb289"> requirements and formalities</a>
+of the course.</p>
+
+</div>
+<div id="newsid" class="col-sm-5">
+  <div class="well">
+
+    <h3>Presentations</h3>
+    <table style="margin-left: auto; margin-right: auto; width: 100%;" border="1px">
+<tbody>
+<tr>
+<td style="width: 34px;">Date&nbsp;</td>
+<td style="width: 24px;">&nbsp;Paper</td>
+<td style="width: 67.9062px;">&nbsp;Presenters</td>
+</tr>
+<tr>
+<td style="width: 34px;">&nbsp;</td>
+<td style="width: 24px;">&nbsp;</td>
+<td style="width: 67.9062px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 34px;">&nbsp;</td>
+<td style="width: 24px;">&nbsp;</td>
+<td style="width: 67.9062px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
+    <ul>
+      <li></li>
+      <li></li>
+    </ul>
+
+    <h3>Literature</h3>
+    <ul>
+    <li>R. Diestel, Graph Theory</li>
+    <li>D. West, Introduction to Graph Theory</li>
+</ul>
+  </div>
+</div>
+:ET

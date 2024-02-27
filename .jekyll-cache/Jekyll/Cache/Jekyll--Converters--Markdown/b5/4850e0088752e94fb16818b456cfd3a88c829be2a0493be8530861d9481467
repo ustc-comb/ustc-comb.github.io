@@ -1,0 +1,110 @@
+I"¿<h1 id="graph-theory-winter-2324">Graph Theory, Winter 23/24</h1>
+
+<div class="col-sm-7">
+  <h2 id="instructor">Instructor</h2>
+
+  <ul>
+    <li>
+      <p><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></p>
+    </li>
+    <li>
+      <p>Office: 1409, Management Building, East Campus</p>
+    </li>
+    <li>
+      <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
+    </li>
+  </ul>
+
+  <h2 id="time">Time</h2>
+
+  <p>Monday 14:00-15:35 and Friday 15:55-17:30, in 5301.</p>
+
+  <h2 id="topics-of-the-course">Topics of the course</h2>
+
+  <ul>
+    <li>Basic notions</li>
+    <li>Trees</li>
+    <li>Connectivity</li>
+    <li>Eulerian and Hamiltonian cycles</li>
+    <li>Matchings</li>
+    <li>Planar graphs</li>
+    <li>Graph colourings</li>
+    <li>The matrix tree theorem</li>
+    <li>Kuratowskiâ€™s theorem</li>
+    <li>Ramsey theory</li>
+    <li>Extremal problems</li>
+  </ul>
+
+  <h2 id="prerequisites">Prerequisites</h2>
+
+  <p>Basic linear algebra, calculus.</p>
+
+  <h2 id="requirements">Requirements</h2>
+
+  <p>Here you can read the <a href="https://rec.ustc.edu.cn/share/95ebf1b0-5939-11ee-9cda-5112ee8bb289"> requirements and formalities</a>
+of the course.</p>
+
+</div>
+<div id="newsid" class="col-sm-5">
+  <div class="well">
+
+    <h3>Exams</h3>
+    <ul>
+    <li><strong>Midterm:</strong> November 10th, 4PM - 5:30PM </li>
+    <li><strong>Final:</strong> January 10th, 7:30PM - 9:30PM, Classroom 5204.</li>
+</ul>
+    <h3>Exercises</h3>
+
+    <ul>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/eb401690-55d9-11ee-8bda-95ac3da51fa3">Exercise Sheet 1</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/a39dcd50-593f-11ee-903b-21889b42b25d">Exercise Sheet 2</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/2226e810-6716-11ee-a5f7-bfd202c22eb2">Exercise Sheet 3</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/17a09db0-717d-11ee-97be-e328f34bf374">Exercise Sheet 4</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/447855c0-717d-11ee-8432-81148a93cba5">Exercise Sheet 5</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/0cb719a0-8548-11ee-8803-9162369e8101">Exercise Sheet 6</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/26302ec0-8548-11ee-b600-d934799c780b">Midterm Exam</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/35f84890-8548-11ee-8b36-fde8f77ef4ad">Exercise Sheet 7</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/d3852110-8c1b-11ee-9266-635b51987e5a">Exercise Sheet 8</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/fd12bf20-8c1b-11ee-b24e-930d2ae85d55">Exercise Sheet 9</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/629b04f0-927f-11ee-b8ba-d1d8694e9704">Exercise Sheet 10</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/5c72a2e0-97fe-11ee-880b-6db890496c63">Exercise Sheet 11</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/a7aa3940-a2ff-11ee-83be-85fbd7298555">Exercise Sheet 12</a></p>
+      </li>
+      <li>
+        <p><a href="https://rec.ustc.edu.cn/share/dbbc7600-a2ff-11ee-b55e-1178fbe5423d">Exercise Sheet 13</a></p>
+      </li>
+    </ul>
+
+    <h3>Literature</h3>
+    <ul>
+    <li>R. Diestel, Graph Theory</li>
+    <li>D. West, Introduction to Graph Theory</li>
+</ul>
+  </div>
+</div>
+:ET

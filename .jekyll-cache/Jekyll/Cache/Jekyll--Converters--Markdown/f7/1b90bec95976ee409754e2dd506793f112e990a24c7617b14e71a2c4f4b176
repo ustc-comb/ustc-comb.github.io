@@ -1,0 +1,69 @@
+I"Ç<h1 id="additive-and-extremal-combinatorics-spring-24">Additive and Extremal Combinatorics, Spring 24</h1>
+
+<div class="col-sm-7">
+  <h2 id="instructor">Instructor</h2>
+
+  <ul>
+    <li>
+      <p><a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a></p>
+    </li>
+    <li>
+      <p>Office: 1409, Management Building, East Campus</p>
+    </li>
+    <li>
+      <p>E-mail: trantuan [at] ustc [dot] edu [dot] cn</p>
+    </li>
+  </ul>
+
+  <h2 id="time">Time</h2>
+
+  <p>Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502..</p>
+
+  <h2 id="presentation-schedule">Presentation schedule</h2>
+
+  <table style="margin-left: auto; margin-right: auto; width: 100%; border:1px solid #e2e2e2;" border="1">
+<tbody>
+<tr style="border:1px solid #e2e2e2; text-align:center; font-weight: bold;">
+<td style="border:1px solid #e2e2e2;">Date</td>
+<td style="border:1px solid #e2e2e2;">Paper</td>
+<td style="border:1px solid #e2e2e2;">Presenters</td>
+</tr>
+
+<tr style="border:1px solid #e2e2e2; text-align:center;">
+<td style="border:1px solid #e2e2e2;">example</td>
+<td style="border:1px solid #e2e2e2;">New Upper Bound on Extremal Number of Even Cycles</td>
+<td style="border:1px solid #e2e2e2;">Peter, Marquez</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
+
+<div id="newsid" class="col-sm-5">
+  <div class="well">
+
+    <h3>Topics of the course</h3>
+    <ul>
+      <li>Algebra methods</li>
+      <li>Sunflower</li>
+      <li>Bollobas set-pairs inequality</li>
+      <li>Regularity lemma</li>
+      <li>Sum-product problem</li>
+      <li>Dependent random choice</li>
+    </ul>
+
+    <h3>Prerequisites</h3>
+    <p>Graph Theory.</p>
+    <h3>Requirements</h3>
+    <p>Here you can read the <a href="#put your limk heres"> requirements and formalities</a>
+of the course.</p>
+
+    <h3>Literature</h3>
+    <ul>
+    <li>Stasys Jukna, Extremal Combinatorics with Application in Computer Science </li>
+    <li> Yufei Zhao, Graph Theory and Additive Combinatorics: Exploring Structure and Randomness</li>
+</ul>
+  </div>
+</div>
+:ET
