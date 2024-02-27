@@ -1,7 +1,7 @@
 ---
-title: "Graph Theory, Winter 23/24"
+title: "Additive and Extremal Combinatorics, Spring 24"
 layout: textlay
-excerpt: "Graph Theory, Winter 23/24"
+excerpt: "Additive and Extremal Combinatorics, Spring 24"
 sitemap: ture
 permalink: /teaching/AddComb2024
 ---
