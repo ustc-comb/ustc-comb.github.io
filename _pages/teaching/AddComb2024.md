@@ -19,7 +19,7 @@ permalink: /teaching/AddComb2024
 
 ## Time
 
-Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502..
+Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building).
 
 
 ## Presentation schedule
@@ -52,21 +52,21 @@ To be announced.
 
 <h3>Topics of the course</h3>
 - Algebra methods
-- Sunflower
+- Sunflowers and Kahn-Kalai conjecture
 - Bollobas set-pairs inequality
-- Regularity lemma
 - Sum-product problem
 - Dependent random choice
 
 <h3>Prerequisites</h3>
-Graph Theory.
+Linear Algebra, Graph Theory.
 <h3>Requirements</h3>
-Here you can read the <a href="#put your limk heres"> requirements and formalities</a>
+Here you can read the <a href="#put your link heres"> requirements and formalities</a>
 of the course.
 
 <h3>Literature</h3>
+Some of the lectures will mostly follow the two fantastic books listed below. Other lectures will be based on original papers.
 <ul>
-    <li>Stasys Jukna, Extremal Combinatorics with Application in Computer Science </li>
+    <li> Laszlo Babai and Peter Frankl, Linear Algebra Methods in Combinatorics </li>
     <li> Yufei Zhao, Graph Theory and Additive Combinatorics: Exploring Structure and Randomness</li>
 </ul>
 </div>
