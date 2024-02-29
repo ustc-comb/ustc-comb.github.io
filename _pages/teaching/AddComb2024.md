@@ -21,6 +21,10 @@ permalink: /teaching/AddComb2024
 
 Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building).
 
+## Lecture notes
+{% for ln in site.data.teaching.AddComb2024.Lecturenotes %}
+- {{ln.Note}}
+{% endfor %}
 
 ## Presentation schedule
 {% if  site.data.teaching.AddComb2024.Presentations%}
