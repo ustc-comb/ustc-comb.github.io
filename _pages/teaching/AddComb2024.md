@@ -28,16 +28,15 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 
 ## Reading papers
 
-<ol>
-  <li> Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. </li>
-  <li> Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.</li>
-  <li> Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in F_p^n.</li>
-  <li> Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.</li>
-  <li> Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.</li>
-  <li> David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.</li>
-  <li> Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no K_{t,t}.</li>
-  <li> Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and L_p-almost-periodicity.</li>
-</ol>
+  1. Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. 
+  1. Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.
+  1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$.
+  1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.
+  1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.
+  1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.
+  1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$.
+  1. Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and $L_p$-almost-periodicity.
+
 
 ## Presentation schedule
 {% if  site.data.teaching.AddComb2024.Presentations%}
