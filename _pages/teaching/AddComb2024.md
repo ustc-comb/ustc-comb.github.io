@@ -26,6 +26,15 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 - {{ln.Note}}
 {% endfor %}
 
+## Reading papers
+
+<ol>
+  <li> Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. </li>
+  <li> Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.</li>
+  <li> Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in F_p^n.</li>
+  <li> Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.</li>
+</ol>
+
 ## Presentation schedule
 {% if  site.data.teaching.AddComb2024.Presentations%}
 <table style="margin-left: auto; margin-right: auto; width: 100%; border:1px solid #e2e2e2;" border="1">
