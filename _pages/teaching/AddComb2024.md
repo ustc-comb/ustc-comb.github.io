@@ -35,7 +35,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/ST.pdf">pdf</a>
 1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/GHNS.pdf">pdf</a>
 1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/FKN.pdf">pdf</a>
-1. A new proof of the efficient container lemma. In Marcelo Campos' PhD thesis.
+1. Marcelo Campos, A new proof of the efficient container lemma. Chapter 4 in <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/EPS.pdf">pdf</a>
 1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/AG.pdf">pdf</a>
 1. Matija Bucic, Stefan Glock, and Benny Sudakov, The intersection spectrum of 3-chromatic intersecting hypergraphs. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BGS.pdf">pdf</a>
 1. Peter Keevash, Jason Long, Bhargav Narayanan, and Alex Scott, A universal exponent for homeomorphs. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/KLNS.pdf">pdf</a>
