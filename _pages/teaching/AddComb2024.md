@@ -35,10 +35,12 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.
 1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families.
 1. A new proof of the efficient container lemma. In Marcelo Campos' PhD thesis.
+1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles. 
 1. Peter Keevash, Jason Long, Bhargav Narayanan, and Alex Scott, A universal exponent for homeomorphs.
 1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.
 1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$.
 1. Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and $L_p$-almost-periodicity.
+1. Jacques Verstraëte, On The Number Of Sets Of Cycle Lengths. 
 
 
 ## Presentation schedule
