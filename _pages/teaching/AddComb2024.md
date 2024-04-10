@@ -33,6 +33,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$.
 1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.
 1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.
+1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families.
 1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.
 1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$.
 1. Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and $L_p$-almost-periodicity.
