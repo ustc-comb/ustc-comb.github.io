@@ -29,20 +29,20 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 ## Reading papers
 
 1. Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/Kutin.pdf">pdf</a>
-1. Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.
-1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$.
-1. Matija Bucic, Shoham Letzter, Benny Sudakov, Tuan Tran. Minimum saturated families of sets.
-1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.
-1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.
-1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families.
+1. Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BC.pdf">pdf</a>
+1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/EPS.pdf">pdf</a>
+1. Matija Bucic, Shoham Letzter, Benny Sudakov, Tuan Tran. Minimum saturated families of sets. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BLST.pdf">pdf</a>
+1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/ST.pdf">pdf</a>
+1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/GHNS.pdf">pdf</a>
+1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/FKN.pdf">pdf</a>
 1. A new proof of the efficient container lemma. In Marcelo Campos' PhD thesis.
-1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles.
-1. Matija Bucic, Stefan Glock, and Benny Sudakov, The intersection spectrum of 3-chromatic intersecting hypergraphs. 
-1. Peter Keevash, Jason Long, Bhargav Narayanan, and Alex Scott, A universal exponent for homeomorphs.
-1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.
-1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$.
-1. Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and $L_p$-almost-periodicity.
-1. Jacques Verstraëte, On The Number Of Sets Of Cycle Lengths. 
+1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/AG.pdf">pdf</a>
+1. Matija Bucic, Stefan Glock, and Benny Sudakov, The intersection spectrum of 3-chromatic intersecting hypergraphs. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BGS.pdf">pdf</a>
+1. Peter Keevash, Jason Long, Bhargav Narayanan, and Alex Scott, A universal exponent for homeomorphs. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/KLNS.pdf">pdf</a>
+1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/EIL.pdf">pdf</a>
+1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/ST19.pdf">pdf</a>
+1. Ernie Croot, Izabella Laba, and Olof Sisask, Arithmetic progressions in sumsets and $L_p$-almost-periodicity. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/CLS.pdf">pdf</a>
+1. Jacques Verstraëte, On The Number Of Sets Of Cycle Lengths. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/Verstraete.pdf">pdf</a>
 
 
 ## Presentation schedule
