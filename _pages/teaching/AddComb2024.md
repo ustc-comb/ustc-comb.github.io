@@ -31,11 +31,13 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. 
 1. Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.
 1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$.
+1. Matija Bucic, Shoham Letzter, Benny Sudakov, Tuan Tran. Minimum saturated families of sets.
 1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza.
 1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes.
 1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families.
 1. A new proof of the efficient container lemma. In Marcelo Campos' PhD thesis.
-1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles. 
+1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles.
+1. Matija Bucic, Stefan Glock, and Benny Sudakov, The intersection spectrum of 3-chromatic intersecting hypergraphs. 
 1. Peter Keevash, Jason Long, Bhargav Narayanan, and Alex Scott, A universal exponent for homeomorphs.
 1. David Ellis, Maria-Romina Ivan, and Imre Leader, Turan densities for daisies and hypercubes.
 1. Benny Sudakov and Istvan Tomon, The Turan number of bipartite graphs with no $K_{t,t}$.
