@@ -28,7 +28,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 
 ## Reading papers
 
-1. Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. 
+1. Samuel Kutin, Constructing Large Set Systems with Given Intersection Sizes Modulo Composite Numbers. Kutin.pdf
 1. Boris Bukh and Ting-Wei Chao, Sharp density bounds on the finite field Kakeya problem.
 1. Christian Elsholtz, Laura Proske, and Lisa Sauermann, New lower bounds for three-term progression free sets in $F_p^n$.
 1. Matija Bucic, Shoham Letzter, Benny Sudakov, Tuan Tran. Minimum saturated families of sets.
