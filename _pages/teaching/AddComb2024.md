@@ -34,6 +34,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Matija Bucic, Shoham Letzter, Benny Sudakov, Tuan Tran. Minimum saturated families of sets. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BLST.pdf">pdf</a>
 1. Asaf Shapira and Mykhaylo Tyomkyn, Weakly saturated hypergraphs and a conjecture of Tuza. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/ST.pdf">pdf</a>
 1. Benjamin Gunby, Xiaoyu He, Bhargav Narayanan, and Sam Spiro, Antichain Codes. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/GHNS.pdf">pdf</a>
+1. Domagoj Bradac, Matija Bucic, and Benny Sudakov, Turan numbers of sunflowers. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/BBS.pdf">pdf</a>
 1. Keith Frankston, Jeff Kahn, and Bhargav Narayanan, On regular 3-wise intersecting families. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/FKN.pdf">pdf</a>
 1. Marcelo Campos, A new proof of the efficient container lemma. Chapter 4 in <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/EPS.pdf">pdf</a>
 1. Omar Alrabiah and Venkatesan Guruswami, Near-Tight Bounds for 3-Query Locally Correctable Binary Linear Codes via Rainbow Cycles. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/AG.pdf">pdf</a>
