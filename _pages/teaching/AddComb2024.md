@@ -46,7 +46,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 1. Jacques Verstraëte, On The Number Of Sets Of Cycle Lengths. <a href="https://github.com/ustc-comb/ustc-comb.github.io/blob/gh-pages/downloads/Verstraete.pdf">pdf</a>
 
 
-## Presentation schedule
+## Presentation
 {if  site.data.teaching.AddComb2024.Presentations}
 <table style="margin-left: auto; margin-right: auto; width: 100%; border:1px solid #e2e2e2;" border="1">
 <tbody>
