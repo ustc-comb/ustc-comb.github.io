@@ -25,6 +25,7 @@ permalink: /teaching/AddComb2024
 # Extremal and Additive Combinatorics, Spring 24
 
 <div class="col-sm-7">
+    
 ## Instructor
 
 - <a href="https://tuaentran.wixsite.com/homepage">Tuan Tran</a>
