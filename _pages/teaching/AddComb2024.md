@@ -64,6 +64,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 {% endfor %}
 </tbody>
 </table>
+&nbsp;
 {% else %}
 To be announced.
 {% endif %}
