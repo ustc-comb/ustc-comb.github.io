@@ -85,7 +85,7 @@ To be announced.
 Linear Algebra, Graph Theory.
 <h3>Requirements</h3>
 Here you can read the <a href="#put your link heres"> requirements and formalities</a>
-of the course.
+of the course. 
 
 <h3>Literature</h3>
 Some of the lectures will mostly follow the two fantastic books listed below. Other lectures will be based on original papers.
