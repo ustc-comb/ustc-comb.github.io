@@ -6,6 +6,22 @@ sitemap: ture
 permalink: /teaching/AddComb2024
 ---
 
+<style>
+    table tr:nth-child(odd)
+         {
+            background: rgb(255, 255, 255);
+         }
+         /*设置偶数行颜色*/
+         table tr:nth-child(even)
+         {
+            background: rgb(248, 248, 248);
+         }
+         /*设置鼠标聚焦到行上是凸显*/
+         table tr:hover{
+            background-color: rgb(241, 241, 241);
+         }
+</style>
+
 # Extremal and Additive Combinatorics, Spring 24
 
 <div class="col-sm-7">
