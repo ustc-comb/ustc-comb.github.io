@@ -47,7 +47,7 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 
 
 ## Presentation
-{if  site.data.teaching.AddComb2024.Presentations }
+{% if  site.data.teaching.AddComb2024.Presentations %}
 <table style="margin-left: auto; margin-right: auto; width: 100%; border:1px solid #e2e2e2;" border="1">
 <tbody>
 <tr style="border:1px solid #e2e2e2; text-align:center; font-weight: bold;">
@@ -55,16 +55,16 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 <td style="border:1px solid #e2e2e2;">Paper</td>
 <td style="border:1px solid #e2e2e2;">Presenters</td>
 </tr>
-{ for pr in site.data.teaching.AddComb2024.Presentations }
+{% for pr in site.data.teaching.AddComb2024.Presentations %}
 <tr style="border:1px solid #e2e2e2; text-align:center;">
 <td style="border:1px solid #e2e2e2;">{{pr.Date}}</td>
 <td style="border:1px solid #e2e2e2;">{{pr.Paper}}</td>
 <td style="border:1px solid #e2e2e2;">{{pr.Presenters}}</td>
 </tr>
-{endfor }
+{% endfor %}
 </tbody>
 </table>
-{ else }
+{% else %}
 To be announced.
 {% endif %}
 
