@@ -69,14 +69,14 @@ Tuesday 15:55-18:20 and Thursday 14:00-15:35, in 5502 (the 5th teaching building
 <tbody>
 <tr style="border:1px solid #e2e2e2; text-align:center; font-weight: bold;">
 <td style="border:1px solid #e2e2e2;">Date</td>
-<td style="border:1px solid #e2e2e2;">Paper</td>
-<td style="border:1px solid #e2e2e2;">Presenters</td>
+<td style="border:1px solid #e2e2e2;">Title</td>
+<td style="border:1px solid #e2e2e2;">Speakers</td>
 </tr>
 {% for pr in site.data.teaching.AddComb2024.Presentations %}
 <tr style="border:1px solid #e2e2e2; text-align:center;">
 <td style="border:1px solid #e2e2e2;">{{pr.Date}}</td>
-<td style="border:1px solid #e2e2e2;">{{pr.Paper}}</td>
-<td style="border:1px solid #e2e2e2;">{{pr.Presenters}}</td>
+<td style="border:1px solid #e2e2e2;">{{pr.Title}}</td>
+<td style="border:1px solid #e2e2e2;">{{pr.Speakers}}</td>
 </tr>
 {% endfor %}
 </tbody>
