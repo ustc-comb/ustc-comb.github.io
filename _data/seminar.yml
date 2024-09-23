@@ -2,7 +2,7 @@
   year: 2024
   pubdate: 2024-09-23
   date: Thursday (Sep 26, 2024), 4:00-5:00 pm
-  abstract: Ear decomposition is a classical notion in Graph Theory. It has been shown in [1, 2] that this notion can be used to solve difficult problems on homological properties of edge ideals in Combinatorial Commutative Algebra. This talk presents the main combinatorial ideas behind these results. \\[1] H.M. Lam and N.V. Trung, Associated primes of powers of edge ideals and ear decompositions of graphs, Trans. AMS 372 (2019)\\[2] H.M. Lam, N.V. Trung, and T.N. Trung, A general formula for the index of depth stability of edge ideals, Trans. AMS, to appear.
+  abstract: Ear decomposition is a classical notion in Graph Theory. It has been shown in [1, 2] that this notion can be used to solve difficult problems on homological properties of edge ideals in Combinatorial Commutative Algebra. This talk presents the main combinatorial ideas behind these results. [1] H.M. Lam and N.V. Trung, Associated primes of powers of edge ideals and ear decompositions of graphs, Trans. AMS 372 (2019)[2] H.M. Lam, N.V. Trung, and T.N. Trung, A general formula for the index of depth stability of edge ideals, Trans. AMS, to appear.
   speakers: <a href="http://math.ac.vn/vi/component/staff?task=getProfile&staffID=64&lang=vi">Ngo Viet Trung</a> (Institute of Mathematics, Vietnam Academy of Science and Technology)
   meeting:
     platform: Place
