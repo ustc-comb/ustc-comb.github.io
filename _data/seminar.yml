@@ -1,3 +1,17 @@
+- title: Tree- and rank-width of supercritical random graphs
+  year: 2024
+  pubdate: 2024-12-20
+  date: Thursday (Dec 26, 2024), 3:00-4:00 pm
+  abstract: In this talk, we consider the width of a supercritical random graph according to some commonly studied width measures. We give short, direct proofs of results of Lee, Lee and Oum, and of Perarnau and Serra, on the rank- and tree-width of the random graph $G(n,p)$ when $p= \frac{1+\epsilon}{n}$ for $\epsilon > 0$ constant. Our proofs avoid the use, as a black box, of a result of Benjamini, Kozma and Wormald on the expansion properties of the giant component in this regime, and so as a further benefit we obtain explicit bounds on the dependence of these results on $\epsilon$. Finally, we also consider the width of the random graph in the \emph{weakly supercritical regime}, where $\epsilon = o(1)$ and $\epsilon^3n \to \infty$. In this regime, we determine, up to a constant multiplicative factor, the rank- and tree-width of $G(n,p)$ as a function of $n$ and $\epsilon$. This is a joint work with Joshua Erde and Mihyun Kang (Graz University of Technology, Austria).
+  speakers: <a href="#">Do Tuan Anh</a> (Beijing Institute of Technology)
+  meeting:
+    platform: Place
+    room: 5307, the 5th Teaching Building
+    password: 
+  videolink: 
+  slidelink: 
+  highlight: 1
+
 - title: Ear decompositions of graphs$\colon$ an unexpected tool in Combinatorial Commutative Algebra
   year: 2024
   pubdate: 2024-09-23
